@@ -1,0 +1,623 @@
+ConstituentID,ConstituentTypeID,Active,AlphaSort,LastName,FirstName,NameTitle,Institution,LastSoundEx,FirstSoundEx,InstitutionSoundEx,DisplayName,BeginDate,EndDate,DisplayDate,Biography,Code,Nationality,School,LoginID,EnteredDate,SysTimeStamp,PublicAccessOld,Remarks,Position,MiddleName,Suffix,CultureGroup,N_DisplayName,N_DisplayDate,salutation,Approved,PublicAccess,IsPrivate,DefaultNameID,SystemFlag,InternalStatus,DefaultDisplayBioID,BeginDateISO,EndDateISO
+1,1,0,Willem III Koning,Oranje-Nassau,Willem Alexander Paul Frederik Lodewijk,Koning,NULL,NULL,NULL,NULL,Koning Willem III,1817,1890,1817 - 1890,"Koning der Nederlanden, Stichter en Beschermheer van Bronbeek.
+Uit de Staats-couranrt 1859/09/29: ""Zijne Majesteit Willem Alexander Paul Frederik Lodewijk, koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, hertog van limburg en zo voorts en zo voorts""
+Uit Wikipedia (2007/03/30):
+""Willem Alexander Paul Frederik Lodewijk (Brussel, 17 februari 1817 – Het Loo, 23 november 1890), Prins van Oranje-Nassau, was van 1849 tot 1890 Koning der Nederlanden en Groothertog van Luxemburg onder de naam Willem III.
+
+Hij werd geboren in Brussel als zoon van koning Willem II en Anna Paulowna, de zuster van de Russische tsaar Alexander I.
+Hij trad op 18 juni 1839 in het huwelijk met zijn nicht Sophie van Württemberg, dochter van koning Willem I van Württemberg en Catharina Paulowna (zus van Anna Paulowna, moeder van Willem III). Het werd een slecht huwelijk, mede door Willems nauwelijks verholen buitenechtelijke affaires en seksuele uitspattingen. De weinig tolerante en zeer ambitieuze houding van zijn echtgenote deed de rest. In 1851 is er door zijn schoonfamilie een poging gedaan het huwelijk te ontbinden. Hoewel dat niet doorging leefde het paar sindsdien gescheiden van tafel en bed. Uit het huwelijk kwamen drie zoons voort:
+
+Willem Nicolaas Alexander Frederik Karel Hendrik (1840-1879), was vanaf 1849 prins van Oranje 
+Willem Frederik Maurits Alexander Hendrik Karel (1843-1850) 
+Willem Alexander Karel Hendrik Frederik (1851-1884), prins van Oranje na de dood van zijn broer tot zijn eigen dood 
+
+Tweede huwelijk
+Na het overlijden van Sophie in 1877 trouwde de 61-jarige Willem op 7 januari 1879 met de twintigjarige prinses Emma van Waldeck-Pyrmont, dochter van George Victor van Waldeck-Pyrmont en Helena van Nassau-Weilburg. Uit het huwelijk werd op 31 augustus 1880 een kind geboren: Wilhelmina.
+
+Het vaderschap van Willem III staat wel eens ter discussie, omdat hij op oudere leeftijd wegens syfilis geen kinderen meer zou kunnen verwekken. Als natuurlijke vader wordt dan genoemd: Jonkheer S.M.S. de Ranitz (1846-1916), particulier secretaris van koningin Emma.
+
+Op zich zou dit voor de erfopvolging geen probleem zijn, omdat Emma via haar moeder een afstammeling was van de dochter van stadhouder Willem IV, Carolina van Oranje-Nassau, en diens afstammelingen waren nog in de grondwet van 1917 gerechtigd tot de Nederlandse troon.
+
+Artikel 15: 
+Bij ontstentenis van een opvolger, krachtens een der vier voorgaande 
+artikelen tot de Kroon geregtigd, gaat deze over op de wettige mannelijke 
+uit mannen gekomen nakomelingen van wijlen Prinses CAROLINA VAN ORANJE, 
+zuster van wijlen Prins WILLEM DEN VIJFDE en gemalin van wijlen den 
+Prins van Nassau-Weilburg, op gelijke wijze als in artikel 11 ten opzigte 
+van de nakomelingen van wijlen Koning WILLEM FREDERIK, Prins van Oranje-Nassau, is bepaald. 
+
+Constitutionele rol
+Willem III had grote moeite met de beperking van de koninklijke macht zoals deze onder het bewind van zijn vader in 1848 met de grondwetswijziging van Thorbecke tot stand was gekomen. Een koning behoorde naar zijn mening 'vast als een rots' zelf te regeren. Uit protest tegen de grondwetswijziging vertrok de troonopvolger naar Engeland, waar hij verbleef toen zijn vader in 1849 plotseling overleed. De eerste twintig jaar van zijn regering kenmerken zich door weerstand tegen de constitutionele monarchie, waarbij de koning zich overigens telkens conformeerde. Een voorbeeld van de eigenzinnige constitutionele rol die de koning aanvankelijk speelde is de commotie rond de Aprilbeweging in 1853. Het zittende kabinet had een karakterloos, nietszeggend antwoord voorgesteld. De koning hield te Amsterdam echter een gloedvolle rede die de hoogopgelopen gemoederen overigens ook onmiddellijk deed bedaren.
+
+
+Luxemburgse kwestie
+In 1866 viel de Duitse Bond uiteen en kwam de Noord-Duitse Bond tot stand, waarvan Luxemburg en Limburg geen deel meer zouden uitmaken. Willem was toen bereid het groothertogdom aan keizer Napoleon III van Frankrijk te verkopen met stilzwijgende instemming van de Pruisische premier Bismarck. Toen deze transactie echter in de openbaarheid kwam, verklaarde Bismarck dat verkoop als reden tot oorlog beschouwd zou worden. Op de Conferentie van Londen van 1867 ter regeling van de Luxemburgse kwestie werd overeengekomen dat Luxemburg patrimoniaal eigendom van het huis (Oranje-)Nassau zou blijven, echter wel als politiek neutraal gebied. De Pruisische troepen werden dan ook teruggetrokken uit de vesting en de burcht van Luxemburg werd afgebroken. In 1868 kreeg Luxemburg ook nog een nieuwe grondwet.
+
+
+Laatste levensjaren
+In 1887 werd hij ernstig ziek en hij stierf in 1890, waarna zijn minderjarige dochter Wilhelmina de troon besteeg met Emma als regentes. Het Groothertogdom Luxemburg ging conform de Nassause ""Erbverein"" naar de andere linie van het Huis Nassau omdat volgens huisrecht alleen mannelijke afstammelingen erfgerechtigd waren voor Nassaugoederen (zie ook bij Salische Wet).
+
+Willem III was in zijn latere jaren niet geliefd en werd soms Koning Gorilla genoemd vanwege zijn bij gelegenheden boertige uitvallen. Toch hadden deze uitvallen ook positieve gevolgen. Het volk respecteerde hem daarom meer, aangezien hij zich enigszins 'volks' gedroeg.""
+
+
+",NULL,Nederlands,NULL,SantenC/KTOMB_W016,1998-07-16 10:27:08.860,0x000000000088C653,0,Beschermheer van Bronbeek,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,13027,0,0,1,"1817      ","1890      "
+2,1,0,Vongers A.C. Dhr.,Vongers,Arnold Christiaan,Dhr.,NULL,NULL,NULL,NULL,Dhr. A.C. Vongers,1801,1869,1801 - 1869,"Arnold Christiaan Vongers, wijnhandelaar, geboren 1801 te Den Haag, overleden 30 mei 1869 te Arnhem (akte 347). Gehuwd met Jacoba van den Biesen. Zoon van Peter Matheus Vongers, R.K., winkelier te Dulcken, en Maria van Manen.
+Vongers was compagnon van La Chapelle, die sedert 1819 de kelders van het Sint Petersgasthuis aan de Rijnstraat in gebruik had als wijnopslagplaats. Vongers kocht het Sint Petersgasthuis in 1849 en liet het restaureren in (neo-)gotische stijl o.a. met bakstenen afkomstig van het in 1835 afgebroken kasteel Enghuizen in Hummelo. Enghuizen was in 1835 bezit van Baron van Heeckeren van Enghuizen, die heeft deelgenomen aan de oorlog tegen Napoleon en diverse boerderijen op zijn landgoed heeft vernoemd naar plaatsen waar hij aan veldslagen heeft deelgenomen . In 1835 werd het oude kasteel afgebroken en een neoclassicistische huis gebouwd, terwijl het landgoed opnieuw werd ingericht als ferme ornee naar ontwerp van Van Lunteren. In 1945 brandde Enghuizen af. In 1950 zijn zes tuinvazen van Enghuizen verkocht aan het Rijksmuseum.
+",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-07-16 10:34:58.897,0x000000000088C654,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,12373,0,0,2,"1801      ","1869      "
+16,1,0,Roest W.A. Generaal-majoor,Roest,W.A.,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor W.A. Roest,1796,1875,1796 - 1875,"Generaal-majoor; Adjudant van Koning Willem III
+
+Roest, W.A.
+Generaal-majoor
+1796-1875
+Eretekenen:
+-	RMWO 4 op 22 november 1828
+-	Ridder der Orde van de Nederlandsche Leeuw
+-	Medaille voor de Oorlog op Java
+- 	(20): gouden gesp voor eervolle langdurige Nederlandse effectieve                   diensttijd als officier met het cijfer 20
+-	EK 2: Ridder van de Ster der Orde van de Eikenkroon op 20 april 1857
+-	Ereteken 1813-1815
+
+Benoemd tot buitengewoon adjudant van Z.M. op 22 april 1849 (uit: Bijlage X behoorende bij den Militaire Spectator).
+Chef staf tijdens de Java oorlog
+",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-07-23 16:28:54.410,0x00000000013F2CC0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9976,0,0,4079,1796,1875
+17,1,0,"Cochius, F.D., Luitenant-generaal",Cochius,Frans David,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal F.D. Cochius,1787,1876,1787 - 1876,"Luitenant-generaal; Commandeur Militaire Willemsorde (1838).
+Geboren te Valburg, nabij Arnhem op 17 december 1780. In oktober 1815 vertrok hij met de eerste bezettingstroepen als kapitein der Genie naar Java en keerde na tot den rang van Luitenant-generaal te zijn opgeklommen, in 1848 naar het vaderland terug, om daar zijne nog overige levensjaren in rust door te brengen. Hij had bij Palembang en in den oorlog met Dipo Negoro zeer gewaardeerde diensten bewezen, en besloot zijne dappere wapenfeiten met de schitterende verovering van Bondjol op Sumatra´s Westkust in 1837. Die sterkte draagt thans ter zijner eere, als een welverdiend huldeblijk, den naam van Fort Cochius.
+
+Adjudant in buitengewone dienst van Z.K.H. Willem III 	1841-1876
+Legercommandant Oost-Indisch Leger 6 maart 1835 – 1 januari 1848
+
+MWO 3e klasse, KB 1822-05-07 No.29, Palembang, 20 en 24 juni 1821 (luitenant-kolonel genie)
+Eervol vermeld, KB 1828-11-22 No.28, Java, oorlog op Java 1825 tot 19 juni 1828 (kolonel genie)
+MWO 2e klasse, KB 1838-05-08 No.72, Sumatra, oorlog op Sumatra’s Westkust en operatie Bonjol (generaal-majoor)
+
+1808	2de luitenant
+1809	1ste luitenant 
+1811	Kapitein der Genie
+1817	Majoor
+1821	Luitenant kolonel
+1825	Kolonel
+1839	Generaal-majoor 
+1843	Luitenant-generaal 
+
+Frans David Cochius
+
+Frans David Cochius, commandant van het Koninklijk Nederlandsch-Indisch Leger
+Geboren 	3 december 1787 Valburg
+Overleden 	1 mei 1876 Rijswijk
+Onderdeel 	genie
+Dienstjaren 	1835-1847
+Rang 	commandant van het Koninklijk Nederlandsch-Indisch Leger
+Slagen/oorlogen 	onder meer Leipzig, Waterloo, Quatre-Bras
+Onderscheidingen 	onder meer commandeur van de Militaire Willems-Orde, Grootkruis in de Orde van de Eikenkroon
+
+Frans David Cochius (Valburg, 3 december 1787 \u2013 Rijswijk, 1 mei 1876) was een Nederlands generaal, commandant van het Nederlands-Indisch leger.
+Inhoud
+
+    1 Loopbaan
+        1.1 Napoleontische tijd
+        1.2 Gelderse Munt
+        1.3 Java-oorlog
+        1.4 Padrie-oorlog
+    2 Decoraties
+
+Loopbaan
+Napoleontische tijd
+
+Cochius trad op zeventienjarige leeftijd in militaire dienst als cadet der genie aan de militaire school te Zutphen. Hij werd in 1808 tot luitenant surnumerair der genie en artillerie benoemd. Gedurende de inlijving van de Nederlanden bij Frankrijk, in 1810, werd hij benoemd tot eerste luitenant bij de staf der genie, in 1811 benoemd tot tweede kapitein der sappeurs, in 1812 tot eerste kapitein en nog hetzelfde jaar tot kapitein van de tweede klasse bij de staf der genie bevorderd. In 1812 ontving hij de last zich naar het grote Franse leger te begeven maar hij bereikte het niet. Hij werd ingedeeld bij de eerste divisie van het observatiecorps en nam deel aan de gevechten bij Lützen, Bautzen, Möckern, Löwenberg en Leipzig (1813), om daarna met de overblijfselen van het vijfde legerkorps op Koblenz en Keulen terug te trekken. In 1814 bevond Cochius zich te Hüningen, in de Elzas, dat door de geallieerden belegerd werd, maar nauwelijks was het bericht van de val van Napoleon bevestigd of Cochius nam zijn ontslag uit de Franse dienst, om naar het vaderland terug te keren, waar hij in 1814 direct als kapitein-ingenieur tweede klasse geplaatst werd, om kort daarna bij het Indische leger ingedeeld te worden. Daarvoor nam hij nog deel, met de Indische Brigade, aan de gevechten te Quatre-Bras en Waterloo en was aanwezig bij de insluiting van Quesnoy en Valencijn.
+Gelderse Munt
+
+Eind 1814, kort na de Frans-Bataafse tijd, bracht kapitein Cochius van het Ministerie van Oorlog aan Harderwijk een bezoek. Zijn opdracht was het gebouw van de voormalige Gelderse Munt aan de Smeepoortstraat te inspecteren op geschiktheid als koloniaal depot. In Den Haag bestond het voornemen om het Koloniaal Werfdepot in Harderwijk te vestigen en hiervoor zocht men een geschikt onderkomen. Kapitein Cochius gaf een gunstig oordeel. Met enige aanpassingen was De Gelderse Munt in 1815 gereed voor de huisvesting van zo\u2019n 800 militairen.
+Java-oorlog
+
+Al kort na de aankomst van Cochius in Nederlands Indië werd hij uit de vredesdienst als eerstaangewezen ingenieur te Weltevreden gehaald en werd hem een rol toegewezen bij het dempen van de opstand in de residentie Krawang. In 1817 werd hij tot majoor en in 1821 tot luitenant-kolonel bevorderd en in deze rang maakte hij, als commandant van de genie en pioniers, de expeditie mee naar Palembang, tegen sultan Machmoed Badar-Oedin, waarbij hij veel succes oogstte en hij, als beloning voor zijn heldhaftige gedrag, werd hij benoemd tot officier in de Militaire Willems-Orde op 7 mei 1822.[1]. Na zijn benoeming tot tweede directeur der fortificaties en civiele gebouwen (1822) deed Cochius weer gewone vredesdienst tot de bloedige vijfjarige oorlog tegen Diepo Negoro uitbrak, waarin hij een zeer belangrijke rol speelde, en zich bijzonder onderscheidde bij het ontzet van Djokja, de inname van de Kraton te Pleret en de strijd te Karta-Soera. Hij was inmiddels (1825) tot kolonel benoemd, en na sinds 1827 met de dienst der chef der derde afdeling, Militair Departement, belast te zijn geweest, in 1830 tot commandant van het leger te velde in Midden-Java (Salatiga) aangesteld. Cochius was in november 1829 op verzoek gepensioneerd, maar op aandrang van generaal de Kock en gouverneur-generaal van den Bosch verklaarde hij zich bereid in dienst te blijven en werd in maart 1830 in activiteit hersteld. Het was onder leiding van Cochius dat de Keizer van Soerakarta Pakoe Boewana VI werd opgespoord en gevangengenomen, en de opstand in de residentie Bengalen werd gedempt.
+Padrie-oorlog
+Verovering van Bondjol.
+
+Cochius werd in 1832 bevorderd tot generaal-majoor titulair (pas 7 jaar later ontving hij die rang effectief) en verkreeg het commando over het Nederlands-Indische leger, welk commando hij tot 1847 waarnam. In deze functie verkreeg hij, na tot adjudant in buitengewone dienst van Z.M. de Koning benoemd te zijn (1839), de rang van luitenant-generaal, eerst titulair (1843), daarna effectief (1846). Het was in de betrekking van commandant van het Indische leger, dat Cochius tot bevelhebber en gouvernements-commissaris met uitgebreide macht naar het oorlogstoneel op Sumatra werd gezonden; aan hem was de inname van Bondjol te danken, waarvoor de Nederlandse troepen in het jaar daarvoor, 1836, het hoofd hadden gestoten. Voor de belangrijke diensten hier bewezen werd Cochius benoemd tot commandeur in de Militaire Willems-Orde. Cochius verkreeg in 1847, op verzoek, pensioen en werd door de Koning benoemd tot Grootkruis in de Orde van de Eikenkroon. Als legercommandant had Cochius, door zijn goede zorgen en welberaamde beschikkingen, veel bijgedragen - vooral wat Sumatra en Bali betreft - zeker veel bijgedragen tot het beëindigen van de daar gevoerde oorlogen. Geoefendheid en krijgstucht werden, gedurende zijn bevelhebberschap van het leger, zoveel verbeterd als mogelijk was onder een onvoldoende organisatie en samengesteld uit zoveel heterogene bestanddelen. Gedurende het tijdvak van 44 jaar, waarvan 32 in Indische dienst, was het geluk hem ten deel gevallen, dat hij, noch in de gevechten die hij als ondergeschikte bijwoonde, noch ook in die, waarvan hem als opperbevelhebber het beleid was opgedragen, ooit enig echec leed. Cochius overleed op 1 mei 1876 te Rijswijk.
+Decoraties
+
+Cochius was adjudant in buitengewonen dienst van de Koning, commandeur van de Militaire Willems-Orde[2], Grootkruis in de Orde van de Eikenkroon, ridder in de Orde van de Nederlandsche Leeuw en versierd met de Medaille voor de oorlog op Java van 1825-1830. Cochius was niet het enige lid van het geslacht Cochius die in de Militaire Willems-Orde werd opgenomen, ook A. Cochius, eerste luitenant en officier van Gezondheid eerste klasse en J. C. A. Cochius, eerste luitenant, waren ridder in de Militaire Willems-Orde. Voor de deelnemers aan de expeditie naar Bonjol stelde de Koning op 8 mei 1838 een decoratie in, de zogenaamde Ruit van Bonjol, die alleen door drieëntwintig uitmuntende dappere inlandse militairen werd gedragen. Naar Cochius zelf werd een ornament van een officiersuniform, een Cochianus genoemde chacot, in de vorm van een neerhangende pluim van zwarte hanenveren, en een fort in Gombong (op midden-Java) genoemd.
+Voorganger:
+H.J.J.L. de Stuers 	Commandant van het KNIL
+1835 - 1847 	Opvolger:
+C. van der Wijck
+Bronnen, noten en/of referenties
+
+    1876. Frans David Cochius. Militaire Spectator. Bladzijde 441-444.
+    1893. P.H.K. van Schendel. De Militaire Willemsorde.
+    1904. A.J.A. Quintus Bosz. De geschiedenis van de Pupillenschool op het fort Generaal Cochius te Gombang (Midden-Java) In: Mars et Historia (23 april 1904).
+    1911. P.C. Molhuysen en P.J. Blok. Nieuw Nederlands Biografisch Woordenboek. Deel 1. Bladzijde 618-619.
+    1940. G.C.E. Köffler. De Militaire Willemsorde 1815-1940. Algemene Landsdrukkerij. Den Haag.
+
+(nl) Militaire Willems-Orde: Cochius, F.D., niveau 3. Gezien op 17 maart 2016.
+
+    (nl) Militaire Willems-Orde: Cochius, F.D., niveau 2. Gezien op 17 maart 2016.
+
+Bron: https://nl.wikipedia.org/wiki/Frans_David_Cochius. Bezocht: juni 2018",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-07-27 11:59:45.550,0x000000000146C392,0,NULL,legercommandant,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,2895,0,0,5,1787-12-03,1876-05-01
+27,1,0,Geen Joseph Jacobus baron van Luitenant-generaal,Geen,Joseph Jacobus,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal Joseph Jacobus baron van Geen,1773,1846,1773 - 1846,"Luitenant-generaal; Generaal-majoor
+Adjudant in bijzondere dienst van Z.M. Koning Willem II
+Commandant KNIL 1825-1828",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-03 14:30:45.310,0x000000000088C659,0,NULL,NULL,baron van,NULL,NULL,NULL,NULL,NULL,0,0,0,4292,0,0,7,"1773      ","1846      "
+33,1,0,Brauw Cornelis Albert de RMWO-3 Generaal-majoor,Brauw,Cornelis Albert,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor C.A. de Brauw RMWO-3,1809,1862,1809 - 1862,"Brauw, Cornelis Albert de.
+Geboren te Montfoort 19 december 1809. Overleden te Padang 21 februari 1862. Zoon van Jacob de Brauw, die majoor bij het Indische Leger geweest is, en Maria Magdalena Gobius. Hij vertrok als knaap met zijne ouders naar Indië, werd opgeleid aan de Militaire School te Semarang (1822-1826), benoemd tot tweede luitenant der infanterie 1826. Verdere bevorderingen: eerste luitenant 1834, kapitein 1836, majoor 1840, luitenant kolonel 1846, kolonel (bij keuze) 1852, generaal-majoor 1857. Gehuwd (1840) met Jonkvrouwe Jacoba Elisabeth Maria  van Heemskerk van Beest.
+Hij nam deel aan de Java-oorlog (1825-1830) en aan de eerste Bali-expeditie (1846). Bij de derde Bali-expeditie (1849) was het chef van den staf; aan zijn initiatief was de bekende omtrekking van Djagaraga te danken. In 1850 dempte hij met zijn troepen een opsrtand in Bantam. Van 1851-1855 was hij resident en militair commandant van Palembang, van 1855-1857 civiel en militair gouverneur van Celebes; van 1857-1859 met verlof in Nederland. In 1860 was hij commandant der tweede Militaire Afdeling op Java, waarhij het bekende oproer der vreemde Europese soldaten ( te WillemI en Semarang) op krachtige en beleidvolle wijze bedwong. Hij werd daarna, in 1861 benoemd tot civiel en militair gouverneur van Sumatra's Westkust.
+Zijn dood werd zeer betreurd; zowel in burgerlijke als in militaire zaken had hij het algemeen vertrouwen. Hij was een der mannen van dien tijd die zich, als de gelegenheid zich voordeed, steeds onderscheidden door degelijke militaire kennis, algemene ontwikkeling, helder doorzicht en onbegrensd plichtbesef.
+
+Bron: www.dbnl.org. Bezocht: juli 2017
+
+MWO 3 Bali 1849, Adjudant in bijzondere dienst van de Koning, Groot Officier in de  Eikenkroon
+Kolonel, C.A. de Brauw verwierf als Majoor bij de 1e Expeditie tegen Bali in 1846 de Militaire Willemsorde der 4e klasse en bij de 3e Expeditie tegen Bali in 1849 de Militaire Willemsorde der 3e klasse.",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-03 15:55:41.830,0x00000000013A6F8A,0,NULL,NULL,de,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,2371,0,0,3962,1809-12-19,1862-02-21
+35,1,0,"Bosstraeten B.J. van RMWO-4, ES Kapitein",Bosstraeten,Berend Ignate,Kapitein,NULL,NULL,NULL,NULL,"Kapitein B.J. van Bosstraeten RMWO-4, ES",1825,1887,1825 - 1887,"Gepensioneerd Kapitein der Infanterie van het Oost-Indisch Leger, Ridder der Militaire Willemsorde 4e klasse (1849), EBK met gesp Bali 1849, Boni 1859, Legion d'Honneur. Eresabel",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-03 16:11:10.547,0x000000000088C65A,0,NULL,NULL,van,"RMWO-4, ES",NULL,NULL,NULL,NULL,0,0,0,2253,0,0,8,"1825      ","1887      "
+41,1,0,Riesen J.E.A. van Huismeester,Riesen,J.E.A.,Huismeester,Bronbeek,NULL,NULL,NULL,Huismeester J.E.A. van Riesen,1848,1886,1848 - 1886,"Huismeester; Heeft volgens Thieme in de Atjeh-oorlog gevochten; dit moet of een andere oorlog zijn of de datum van de schenking (april 1866) van een met deze persoon verbonden object (een sabel) klopt niet.
+Gep. A.o.o. d.d. officier Huismeester Bronbeek (1848-1886?)
+Drager van: Ereteken voor Belangrijke Krijgsverrichtingen met gesp Atjeh 1873-1874 , Atjeh- of Kratonmedaille; TD in brons",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-04 10:56:30.793,0x000000000088C65B,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9818,0,0,9,"1848      ","1886      "
+43,1,0,Boer Hijbo Everdes jonkheer de Kolonel,Boer,Hijbo Everdes,Kolonel,NULL,NULL,NULL,NULL,Kolonel Hijbo Everdes jonkheer de Boer,1776,1838,1776-1838,"Kolonel, adjudant van Generaal Chasse tijdens het beleg van de citadel van Antwerpen.
+Heeft bij de Slag van Almonacid in Spanje onder het commando van generaal Chassé tegen de Spanjaarden gevochten en hierbij 7 vijanden gedood.",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-04 11:15:34.280,0x000000000088C65C,0,NULL,NULL,jonkheer de,NULL,NULL,NULL,NULL,NULL,0,0,0,1988,0,0,10,"1776      ","1838      "
+45,1,0,Creijghton H.H. Luitenant-kolonel,Creijghton,H.H.,Luitenant-kolonel,NULL,NULL,NULL,NULL,Luitenant-kolonel H.H. Creijghton,1805,1871,1805 - 1871,Luitenant-kolonel; Vanwege zijn prestaties in 1830-1831 met de Militaire Willemsorde onderscheiden.,NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-04 11:32:46.743,0x000000000088C65D,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,3037,0,0,11,"1805      ","1871      "
+83,1,0,"Swieten, J. van, Luitenant-generaal",Swieten,J.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal J. van Swieten,1807,1888,1807 - 1888,"Luitenant-generaal, oud-commandant van het Nederlands Indisch leger
+Militaire Willemsorde 1e klasse
+In oktober 1863 was hij reeds gepensioneerd.
+(zie dossier schenking Van Swieten met kopieën van de Genealogie De Van Riemsdijks en de Van Swietens, een uitgebreide familie uit Tong-Tong jrg. 1972)",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-05 14:10:45.010,0x000000000088C660,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,11415,0,0,14,"1807      ","1888      "
+85,1,0,"Dipanegara, Pangeran",NULL,Dipanegara,Pangeran,NULL,NULL,NULL,NULL,Pangeran Dipanegara,1785,1855,1785 - 1855,"Hoofdopstandeling in de Java-oorlog 1825-1830
+Op 8 maart 1830 te Magelang gevangen genomen door Generaal H.M. Baron de Kock",NULL,I,NULL,SantenC/KTOMB_W016,1998-08-05 15:32:23.593,0x000000000143FFAB,0,Java-oorlog,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,3424,0,0,4130,1785-11-11,1855-01-08
+118,1,0,"Heyl J.H. RMWO-4, 2EV Luitenant-kolonel",Heyl,J.H.,Luitenant-kolonel,NULL,NULL,NULL,NULL,"Luitenant-kolonel J.H. Heyl RMWO-4, 2EV",0,1895,NULL,"Luitenant-kolonel; Overleden in 1895; Ridder Militaire Willems Orde, 4e klas. Tweemaal Eervol Vermeld voor acties in Atjeh van 1874 tot 1879.",NULL,NULL,NULL,sa/KTOMB_W12,1998-08-06 15:37:35.240,0x000000000088BC56,0,NULL,NULL,NULL,"RMWO-4, 2EV",NULL,NULL,NULL,NULL,0,0,0,5324,0,0,-1,NULL,"1895      "
+127,1,0,Merlen J.B. baron van Generaal-majoor,Merlen,J.B.,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor J.B. baron van Merlen,0,1815,gestorven 1815,Generaal-majoor; Gesneuveld bij Waterloo op 18 juni 1815.,NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-10 09:09:43.067,0x000000000088C666,0,NULL,NULL,baron van,NULL,NULL,NULL,NULL,NULL,0,0,0,8102,0,0,20,NULL,"1815      "
+135,1,0,Smits Johannes Cornelis Jacobus Generaal-majoor titulair KNIL,Smits,Johannes Cornelis Jacobus,Generaal-majoor titulair KNIL,Bronbeek,NULL,NULL,NULL,Generaal-majoor titulair KNIL Johannes Cornelis Jacobus Smits,1812,1887,1812 - 1887,"Zoon van Martinus Smits en Johanna Jacoba Alida de Mol.
+Generaal-majoor titulair bd KNIL; eerste Commandant van Bronbeek 1862-1887; Echtgenoot van mw Smits-Schenck en mw Smits-Heineken.
+Johannes Cornelis Jacobus.
+Generaal-majoor, Adjudant des Konings in Buitengewone Dienst, Ridder 3e klas Militaire Willemsorde. Ridder Nederlandse Leeuw, Eresabel, Eervolle vermelding, Ereteken voor Belangrijke Krijgsverrichtingen, Metalen Kruis, Ereteken voor langdurige dienst als Officier, Grootkruis Eikenkroon, Kommandeur van de Roos van brazilië, Ridder van Ijzeren kroon 3e klas van Oostenrijk.
+Kommandant Bronbeek: 3 Junij 1862.",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-10 11:16:23.783,0x00000000013D316A,0,NULL,Kommandant,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10856,0,0,24,1812-05-11,1887-10-21
+154,1,0,"Bosch, J. van den",Bosch,J.,Gouverneur-generaal Graaf,NULL,NULL,NULL,NULL,Gouverneur-generaal Graaf J. van den Bosch,1780,1844,1780 - 1844,"Commandant KNIL 1830-1831
+Gouverneur-generaal van Nederlands-Indië van 1830-1833
+Minister van Koloniën van 1834-1840
+MWO, Grootkruis Nederlandse Leeuw.
+
+J. van den Bosch is in 1835 in de adelstand verheven (Baron); bij zijn aftreden als Minister van Koloniën in 1840 is hij door Koning Willem I  verheven tot Graaf.
+geboren Herwijnen, 2 Februari 1780, overleden te ´s-Gravenhage, 28 Januari (Februari?) 1844. Vader van Jonkheer Mr. R.L. van den Bosch.",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-10 15:44:24.317,0x000000000088C66D,0,NULL,NULL,van den,NULL,NULL,NULL,NULL,NULL,0,0,0,2227,0,0,27,"1780      ","1844      "
+161,1,0,Mijer Pieter Gouverneur-generaal Mr.,Mijer,Pieter,Gouverneur-generaal Mr.,NULL,NULL,NULL,NULL,Gouverneur-generaal Mr. Pieter Mijer,1812,1881,1812 - 1881,"Minister van Koloniën van 1856-1858 en in 1866; Gouverneur-generaal van Nederlands-Indië van 1866-1872
+Biogarfisch Woordenboek p.520/521:
+Mijer (Mr. Pieter), geb. te Batavia 3 Juni 1812, kwam reeds in 1820 naar Nederland ter verkrijging van het voorloopig onderwijs, dat zelfs in zijn geboorteplaats destijds niet te krijgen was en hem te Vollenhoven bekwaamde voor de studiën, die hij in 1828 te Leiden begon. Den 11 Oct. 1832 prom. hij, legde zes dagen later in Den Haag zijn' eed als adv. af en was 15 Aug. 1833 te Batavia terug. Na eenigen tijd aldaar gepraktizeerd te hebben, trad hij in Febr. 1835 in 's lands dienst, bekleedde de hoogste ambten en keerde in den zomer van 1855 met verlof, was van 1 Jan. 1856 tot 18 Maart '58 minister van koloniën, van Juni 1860 tot Mei '66 lid der Tweede Kamer, daarop enkele maanden andermaal min. van koloniën en werd toen gouv.-gen. van Ned.-Indië, woonde na zijne terugkomst eerst te Utrecht, daarna te 's-Grav., waar hij overl. 6 Febr. 1881.
+Als schrijver onderscheidde hij zich door de vlg. werken: Gesch. der Ned. O.-I. bezittingen onder de Fransche heerschappij, Batavia 1839; Kronyk van Nederl.-Indië (1816 -'26), 2 dln., ald. 1841, '42; Gedenkboek der feestelijke vereeniging van Oudstud., aan de Vad. hoogescholen, gehouden tot Batavia, ald. 1844; Jean Chrétien Baud geschetst, Utr. 1878; in de Hand. van Lett. het Levensbericht van J.C. Baud, 1860.
+(Hand. Mij. Ned. Lett., 1884.)
+
+Wikipedia: 
+Pieter Mijer (Batavia, 3 juni 1812 - Scheveningen, 6 februari 1881) was een Nederlands staatsman.
+Hij werd geboren te Batavia, en kwam in 1820 naar Nederland ter verkrijging van het voortgezet onderwijs, dat in zijn geboorteplaats destijds niet gegeven werd. Dit bracht hem naar Instituut 't Hoen te Vollenhoven.
+Hij studeerde rechten te Leiden en promoveerde op 11 oktober 1832. Zes dagen later legde hij in Den Haag de eed alsadvocaat af en werkte enige tijd in Den Haag. Vervolgens ging hij terug naar Batavia, na enige tijd aldaar als advocaat gewerkt te hebben, trad hij in februari 1835 in overheidsdienst, waar hij diverse functies vervulde. Hij keerde in de zomer van 1855 met verlof terug.
+Inhoud
+  [verbergen] 
+""	1 Politieke loopbaan
+""	2 Functies
+""	3 Familie en gezin
+""	4 Publicaties
+""	5 Onderscheidingen
+[bewerken]Politieke loopbaan
+Hij was minister van Koloniën van 1 januari 1856 tot 1 juli 1856 in het Kabinet-Van der Brugghen en van 1 juli 1856 tot 18 maart 1858 in het kabinet-Van Hall-Donker Curtius. Van juni 1860 tot mei 1866 was hij lid van de conservatieve oppositie in de Tweede Kamer.
+In 1866 werd hij andermaal minister van Koloniën in het conservatieve Kabinet-Van Zuylen van Nijevelt. Hij werd na enkele maanden benoemd tot gouverneur-generaal van Nederlands-Indië. Liet zich benoemen, zoals de meerderheid in de Tweede Kamer het zag. De benoeming van een gouverneur-generaal immers geschiedde door de koning op voordracht van de minister van Koloniën, en dat was Piet Mijer. De Kamer was het hier niet mee eens, en de motie hierover van het lidKeuchenius luidde een periode van conflicten tussen Kamer en Regering in.
+De regering stelde zich echter op het standpunt dat een koninklijke benoeming het parlement niet aanging. Het was een geschil over de uitleg van de nog jonge grondwet van Thorbecke. Dit conflict is bekend geworden als de ""kwestie-Mijer"" en heeft uiteindelijk mede bijgedragen aan het ontstaan van de vertrouwensregel in het Nederlandse parlementaire stelsel.
+Na zijn terugkomst woonde Mijer eerst te Utrecht, daarna te Scheveningen, waar hij overleed op 6 februari 1881.
+[bewerken]Functies
+""	advocaat te Den Haag, van 1832 tot 1833
+""	advocaat te Batavia, van 1833 tot 1835
+""	referendaris ter Algemeene Secretarie van Nederlands-Indië, van 1835 tot 1837
+""	griffier van het Hoog-Gerechtshof en Hoog-Militair Gerechtshof van Nederlands-Indië, van 1837 tot 1838
+""	waarnemend raadsheer Hoog-Gerechtshof van Nederlands-Indië, in 1838
+""	raadsheer Hoog-Gerechtshof van Nederlands-Indië, van 1838 tot 1839
+""	waarnemend raadsheer Hoog-Militair Gerechtshof van Nederlands-Indië, van 1839 tot 1845
+""	waarnemend procureur-generaal bij het Hoog-Gerechtshof van Nederlands-Indië, van 1845 tot 1846
+""	waarnemend advocaat-fiscaal voor zee- en landmacht in Nederlands-Indië, van 1845 tot 1846
+""	vicepresident Hoog-Gerechtshof en Hoog-Militair Gerechtshof van Ned.-Indië, van 1846 1849
+""	procureur-generaal Hoog-Gerechtshof van Nederlands-Indië, van 1849 tot 1851
+""	advocaat-fiscaal voor zee- en landmacht, van 1849 tot 1851
+""	lid Raad van Nederlandsch-Indië, van 1851 tot 1856
+""	minister van Koloniën, van 1 januari 1856 tot 18 maart 1858 Kabinet-Van Hall-Donker Curtius
+""	gepensioneerd
+""	lid Tweede Kamer der Staten-Generaal voor het kiesdistrict Zwolle, van 1860 tot 1866
+""	tweede maal minister van Koloniën, van 30 mei 1866 tot 17 september 1866 Kabinet-Van Zuylen van Nijevelt
+""	tijdelijk voorzitter van de Ministerraad, van mei 1866 tot september 1866
+""	Gouverneur-Generaal van Nederlands-Indië, 1866 tot 1872 (benoemd bij K.B. van 17 sep. 1866)
+[bewerken]Familie en gezin
+""	Vader = Pieter Mijer,
+""	Moeder = Ernestina Geertruida Meyer
+""	Samenlevingsvorm = gehuwd te Batavia, 4 september 1837
+""	Naam echtgenote = Jeannette Antoinette Pietermaat
+""	Kinderen = 6 zoons en 4 dochters
+[bewerken]Publicaties
+""	Gesch. der Ned. O.-I. bezittingen onder de Fransche heerschappij, Batavia 1839;
+""	Kronyk van Nederl.-Indië (1816 -'26), 2 dln., ald. 1841, '42;
+""	Gedenkboek der feestelijke vereeniging van Oudstud., aan de Vad. hoogescholen, gehouden tot Batavia, ald. 1844;
+""	Dissertatio historico-politica de commercio et internae administrationis forma possessionum Batavarum in India Orientali, dissertatie
+""	Jean Chrétien Baud geschetst, Utr. 1878; in de Hand. van Lett. het Levensbericht van J.C. Baud, 1860.
+[bewerken]Onderscheidingen
+""	Ridder in de Orde van de Nederlandse Leeuw
+""	Commandeur in de Orde van de Nederlandse Leeuw
+""	Grootkruis Orde van de Eikenkroon",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-10 16:29:59.580,0x000000000088C66E,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,8184,0,0,28,"1812      ","1881      "
+162,1,0,Rochussen Jan Jacob,Rochussen,Jan Jacob,Gouverneur-generaal,NULL,NULL,NULL,NULL,Gouverneur-generaal Jan Jacob Rochussen,1797,1871,1797 - 1871,"Gouverneur-generaal van Nederlands-Indië van 1845-1851; Minister van Koloniën van 1858-1861
+Staats-courant 1859/09/29: ""Ridder Grootkruis der Orde van den Nederlandschen leeuw en Eikenkroon, Groot-Officier der Orde van het Legioen van Eer van Frankrijk, Ridder Groot-Kruis der Orde van den Rooden Adelaar van Pruissen, van de Leopolds-Orde van Belgie en van het Zuider-Kruis van Brazilië, Minister van Staat, Minister van Koloniën.""",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-10 16:35:52.197,0x000000000088C66F,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9938,0,0,29,"1797      ","1871      "
+189,1,0,Dedem Willem Karel baron van Mr.,Dedem,Willem Karel,Mr.,NULL,NULL,NULL,NULL,Mr. W.K. baron van Dedem,1839,1895,1839 - 1895,Minister van Koloniën van 1891-1894,NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-12 08:44:04.847,0x000000000088C672,0,NULL,Minister van Koloniën,baron van,NULL,NULL,NULL,NULL,NULL,0,0,0,3182,0,0,32,"1839      ","1895      "
+206,1,0,Sorg C.J. Luitenant-kolonel,Sorg,C.J.,Luitenant-kolonel,NULL,NULL,NULL,NULL,Luitenant-kolonel C.J. Sorg,0,1850,NULL,"Luitenant-kolonel; Sneuvelde op 11 september 1850 te Pamangkat, Westkust van Borneo.
+Ridder Militaire Willemsorde 3e klas met tweemaal eervolle vermelding.",NULL,NULL,NULL,SantenC/KTOMB_W016,1998-08-12 11:40:20.133,0x000000000088BC65,0,F.J. Sorg?,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10950,0,0,-1,NULL,"1850      "
+222,1,0,Diemont August Jan Emanuel RMWO-4 Generaal-majoor KNIL,Diemont,August Jan Emanuel,Generaal-majoor KNIL,NULL,NULL,NULL,NULL,Generaal-majoor KNIL August Jan Emanuel Diemont RMWO-4,1822,1883,1822 - 1883,"Kolonel; Gepensioneerd als Generaal-majoor. Behoort tot het Nederlands Patriciaat.
+Er is enige onduidelijkheid of dhr. Diemont de rang van  kolonel of de rang van Generaal-majoor had, zowel in Smits als in Thieme.
+Volgde generaal Wiggers van Kerchem op als militair en civiel bevelhebber te Atjeh, 6 november 1876.
+Ridder Militaire Willemsorde
+Ridder Nederlandse Leeuw
+1 januari 1878 uit dienst.
+Gehuwd te Padang 18 november 1858 met Charlotta Everharda Thieme (Zutphen 4 februari 1831, Velp 21 juli 1881)
+Kinderen:
+Charlotta Maria Diemont, Loebatou 30 juli 1863
+ Augusta Johanna Emanuela Diemont, Soerabaia 23 februari 1866
+Jan Jacob Diemont, Soerakarta 28 januari 1868, 1e luitenant KNIL, overleden Den Haag 12 februari 1913",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-24 16:11:25.540,0x000000000138EB8E,0,NULL,NULL,NULL,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,3330,0,0,3997,1822-06-15,1883-09-21
+249,1,0,Imhoff Gustaaf Willem van Gouverneur-generaal Baron,Imhoff,Gustaaf Willem,Gouverneur-generaal Baron,NULL,NULL,NULL,NULL,Gouverneur-generaal Baron Gustaaf Willem van Imhoff,1705,1750,1705 - 1750,Gouverneur-generaal van Nederlands-Indië van 1743-1750,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 14:00:15.557,0x000000000088C677,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,5785,0,0,37,"1705      ","1750      "
+261,1,0,Raffles Thomas Stamford Gouverneur-generaal Sir,Raffles,Thomas Stamford,Gouverneur-generaal Sir,NULL,NULL,NULL,NULL,Gouverneur-generaal Sir Thomas Stamford Raffles,1781,1826,1781 - 1826,Gouverneur-generaal van Nederlands-Indië van 1811-1816 (was Luitenant Gouverneur-generaal),NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 14:12:46.197,0x000000000088C678,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9642,0,0,38,"1781      ","1826      "
+263,1,0,Bus de Ghisignies Lèonard Pierre Joseph,Bus de Ghisignies,Lèonard Pierre Joseph,Gouverneur-generaal Burggraaf,NULL,NULL,NULL,NULL,Gouverneur-generaal Burggraaf Lèonard Pierre Joseph du Bus de Ghisignies,1780,1849,1780 - 1849,"Gouverneur-generaal van Nederlands-Indië van 1826-1830 (Was Commissaris-generaal des Konings)
+Minister van Staat",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 14:19:14.163,0x000000000088C679,0,NULL,NULL,du,NULL,NULL,NULL,NULL,NULL,0,0,0,2690,0,0,39,"1780      ","1849      "
+267,1,0,"Duymaer van Twist, A.J., Gouverneur-generaal Mr.",Duymaer van Twist,Albertus Jacob,Gouverneur-generaal Mr.,NULL,NULL,NULL,NULL,Gouverneur-generaal Mr. Albertus Jacob Duymaer van Twist,1809,1887,1809 - 1887,"Gouverneur-generaal van Nederlands-Indië van 1851-1856
+Minister van Staat (in 1872)",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 14:39:31.273,0x000000000088C67A,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,3700,0,0,40,"1809      ","1887      "
+268,1,0,Sloet van de Beele Ludolph Anne Jan Wilt baron Mr.,Sloet van de Beele,Ludolph Anne Jan Wilt,Mr.,NULL,NULL,NULL,NULL,Mr. L.A.J.W. baron Sloet van de Beele,1806,1890,1806 - 1890,"Gouverneur-generaal van Nederlands-Indië van 1861-1866
+Uit: Wikipedia:
+Mr. Ludolph Anne Jan Wilt baron Sloet van de Beele (Voorst, 28 maart 1806 – Arnhem, 10 december 1890) was een Nederlands historicus, koloniaal bewindsman en Thorbeckiaans Tweede Kamerlid.
+
+Leven
+Hij studeerde te Utrecht Rechten en promoveerde aldaar in 1830. In 1831 maakte hij met zijn broer Bartholomeus Willem Anne Elise Sloet tot Oldhuis de Tiendaagse Veldtocht mee. Hij was achtereenvolgens advocaat en procureur te Zutphen, griffier van de Staten van Gelderland, president van de raad van toezicht op de Staatsspoorwegen, van 1861 tot 1866 gouverneur-generaal van Nederlands-Indië, waar hij de liberale hervormingen van Fransen van de Putte uitvoerde, en daarna lid van de Tweede Kamer. Na enig verblijf te Leiden woonde hij in de laatste jaren te Arnhem, waar hij zijn geleerde nasporingen en werkzaamheden afwisselde met de bevrediging van zijn zin voor het natuurleven. Hij overleed daar op 10 december 1890.
+
+Werk
+Het jachtbedrijf onzer voorouders (Arnhem 1849); Bijdrage tot de kennis van Gelderland (Amsterdam 1852-1855); Beschrijving van den watervloed in Gelderland in 1885 met kaart, (met de hoofd-ingenieur Fijnje) (Amsterdam 1856); Mijn verblijf te Kissingen, met platen (Amsterdam 1857); een Latijns werk van Wilhelmus de Berchen over de oude Gelderse adel ('s-Grav. 1870).
+
+Zijn hoofdwerk is het voortreffelijke: Oorkondenboek der graafschappen Gelre en Zutfen tot den slag van Woeringen ('s-Hage 1872-1875); De heilige Ontkommer of Wilgefortis ('s-Hage 1883); De dieren in het Germaansche volksgeloof en volksgebruik, aldaar 1887-1888); De Planten in het Germ. volksgeloof en volksgebruik, aldaar 188.
+
+In de Vaderlandsche Letteroefeningen schreef hij: Over de kenteekenen der echtheid van oorkonden (1837), in de Nederlandsche Jaarboeken voor rechtsgeleerdheid en wetgeving: Het Kondichboek der stad Zutfen (VII), Rechten en gewoonten der Hortmermark (IX)); in de Nieuwe bijdragen voor Rechtsgeleerdheid: Het Keurboek der stad Doetinchem; in de Bijdragen voor Vaderlandsche Geschiedenis en Oudheidkunde: Stukken betrekkelijk de onderhandelingen in het jaar 1675 te Lübeck gevoerd door de Gelderse Hanzesteden en Deventer met de Duitse Hanzesteden, (I); Zutfen voor het Veemgericht (II)); Berigt aangaande eene belangrijke oorkonde van het jaar 1190 (III)); Bijdrage tot de geschiedenis der Heidenen in Gelderland (V)); Aanteekeningen op Bondam Charboek (V)); Overzicht van den landbouw in Duitschland tot het midden der IXe eeuw (VIII)); Over het zinnebeeldige van de Oud-Geldersche water- en dijkrechten (IX)); in de Nieuwe Reeks der Bijdragen: Marken op de Veluwe (I)); De rechten van Loel, Milster- en Waverloholt (V)); Mededeeling uit de archieven van Van Spaen (VI)); Over den giftbrief betreffende Broek, thans Biljoen, van 1076 (VI)); Episoden uit de geschiedenis van Doetinchem tusschen de jaren 1585 en 1599 (VII)); Eene wonderdoende pijp van den rechterarm der H. Moeder Anna te Hattem (VIII) Des hertogs huis te Hattem (VIII). In het Tijdschrift voor Staathuishoudkunde en Statistiek: De Rijnvaart (X)); over Agaten (XX).
+
+In de Mededeelingen en Verslagen der Koninklijke Nederlandse Academie van Wetenschappen: Over een band met middeneeuwsche hss., te Arnhem gevonden (III); Mededeeling omtrent een hs. te Nijmegen over den Ridder met de Zwaan (XII)); De dijkgraaf van Hattem wegens eene dijkgave van het jaar 1414 gedaan met geestelijk recht vervolgd te Oldenzaal, Keulen, Constanz en Rome (2e reeks III). In de Verhandelingen dier Academie: Eene actio spolii volgens het kanonieke recht in het jaar 1229 (1872)); Eene inleiding in erfgrond volgens het burgerlijke recht in 1242 (1872)); Het adellijk stift te Bedburg en zijne juffers (1879)); In de Handelingen van de Maatschappij der Nederlandsche Letterkunde te Leiden: Hoe Van Spaen gekomen is aan verscheidene oorkonden van Duitschen oorsprong (1868). In Konst- en Letterbode: Nederl plantennamen (1861). In De Taal-en Letterbode: Eenige oude Veluwsche woorden, die taalkundige opheldering schijnen te verdienen (2de jaargang). In de eerste jaargangen van den Gelderschen Volksalmanak staan twee stukken getiteld: Ridder Waessink, en Over Oudheden op de Veluwe. In De Gids: De roos, de koningin der Bloemen. Onder de titel Van Als werden verspreide opstellen als hs. verzameld en overgedrukt, Arnhem 1871.
+
+Tweede Kamer
+Periode 
+13-02-1849 t/m 19-08-1850 
+07-10-1850 t/m 25-04-1853
+14-06-1853 t/m 16-09-1856
+17-09-1856 t/m 14-09-1860
+ 
+",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 14:40:52.380,0x000000000088C67B,0,NULL,NULL,baron,NULL,NULL,NULL,NULL,NULL,0,0,0,10771,0,0,41,"1806      ","1890      "
+282,1,0,"Bruce, N.J.",Bruce,N.J.,NULL,NULL,NULL,NULL,NULL,N.J. Bruce,1803,1851,1803 - 1851,"Benoemd tot Gouverneur Generaal, doch voor zijn installatie overleden.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-26 16:04:57.407,0x000000000088C680,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,2528,0,0,46,"1803      ","1851      "
+287,1,0,Wichers Jan Gerard,Wichers,Jan Gerard,Gouverneur-generaal Mr.,NULL,NULL,NULL,NULL,Gouverneur-generaal Mr. Jan Gerard Wichers,1745,1808,1745 - 1808,Gouverneur-generaal van Suriname,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 09:43:52.453,0x000000000088C681,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,12890,0,0,47,"1745      ","1808      "
+289,1,0,Feuilleteau de Bruijn W.K.H.,Feuilleteau de Bruijn,W.K.H.,Majoor der Artillerie KNIL,NULL,NULL,NULL,NULL,Majoor der Artillerie KNIL W.K.H. Feuilleteau de Bruijn MWO 4,1815,1857,1815 - 1857,"Majoor der Artillerie KNIL, MWO 4, Metalen kruis.
+Bij Konklijk Besluit van 6 december 1846, N0.4. Als Kapitein der Artillerie, tot belooning dergenen, die zich loffelijk hebben onderscheiden, bij gelegenheid van de expeditie tegen de Vorsten van Beliling en Karang Assem op het Eiland Balie op den 28sten en 29sten Junij 1846.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 09:55:47.653,0x000000000088C682,0,NULL,NULL,NULL,MWO 4,NULL,NULL,NULL,NULL,0,0,0,4045,0,0,48,"1815      ","1857      "
+302,1,0,Kate Herman ten,Kate,Herman,Dhr.,NULL,NULL,NULL,NULL,Herman Frederik Karel ten Kate,1822,1891,NULL,Kunstschilder,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 13:59:31.630,0x000000000088BC74,0,NULL,NULL,ten,NULL,NULL,NULL,NULL,NULL,0,0,0,6297,0,0,-1,"1822      ","1891      "
+306,1,0,Kock H.M. Baron de Luitenant-generaal,Kock,H.M.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal H.M. Baron de Kock,1779,1845,1779 - 1845,"Luitenant-generaal
+Commandant KNIL 1828-1830
+Heeft op 8 maart 1830 Dipo Negoro te Magelang gevangen genomen.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 14:40:06.503,0x000000000088C683,0,NULL,NULL,Baron de,NULL,NULL,NULL,NULL,NULL,0,0,0,6638,0,0,49,"1779      ","1845      "
+307,1,0,Kroesen Willem Egbert RMWO-3 Luitenant-generaal,Kroesen,Willem Egbert,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal Willem Egbert Kroesen RMWO-3,1817,1873,1817 - 1873,"Luitenant-generaal, Commandant van het Nederlands Oost-Indisch leger 1869-1873
+Werd als Kapitein benoemd tot Ridder 4e klas in de Militaire Willemsorde op 1850/11/01 voor acties in 1847 naar de Batta-eilanden en op Nias. Werd op 1854/10/21 als Majoor bevorderd tot Ridder 3e klas in de militaire Willemsorde voor expeditiën ter Borneo's Westkust in 1853 en 1854. Ontving als Luitenant-kolonel op 1862/06/15 een teveredenheidsbetuiging voor het herstellen der rust in Manipa en Toeroengan op Celebes en als Kolonel op 1863/12/11 eveneens voor zijn expeditie tegen de Torathea (Toradja?)-landen op Celebes.
+Vader: Frans Kroesen; Moeder: Cornelia Valk",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 14:40:46.150,0x0000000001178CDD,0,"Luitenant-generaal, RMWO 3e klas",NULL,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,6974,0,0,3668,1817-02-07,1873-06-22
+309,1,0,Schimpff C.P. Luitenant-generaal,Schimpff,C.P.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal C.P. Schimpff,1812,1886,1812 - 1886,"Luitenant-generaal; Gouverneur van Suriname (....-1859); Adjudant des konings i.b.d.; Militaire Willemsorde 4; Legercommandant KNIL 1862-1865
+
+opm. W.A. (19-08-2012):
+
+e-mail van mw Rosemarie Lübkert-Kamermans d.d. 16-08-2012, bijgevoegd een scan van zijn geboortebewijs. Plaats van geboorte is niet het kamp van St. Omar, maar in de Commune d'Outreau, Departement Pas de Calais.
+
+
+opm. W.A. (22-09-2011):
+
+eretekenen:
+
+Ridder van de Militaire Willemsorde 4e klasse i.z. de expeditie tegen de vorsten van Beliling en Karang Asem, Bali op 28 en 29 juni 1846.
+
+Volgens Besluit van de Minister van Staat d.d. 15 februari 1850, no. 4, benoemd tot Ridder der Orde van de Nederlandse Leeuw
+
+gegevens uit: Encyclopaedie van Nederlandsch West-Indie. ('s Gravenhage, Nijhoff) :
+geboren 13 februari 1813 (1812?) in het kamp St. Omer (Frankrijk) en overleden te Den Haag op 31 december 1886.
+
+1827  soldaat bij de Infanterie van het Nederlandse leger
+1830  2e luitenant
+krijgsgevangene te Bergen Henegouwen en ontvluchtte in 1831 en werd bij de 14e afd. Infanterie geplaatst.
+1836  naar Nederlands-Indie
+1837  1e luitenant
+1840  kapitein
+1845 Balische expeditie, als chef van de Staf
+1848  majoor
+1850  sous-chef van de Generale Staf
+1851  Luitenant-kolonel
+1853  kolonel Chef van de Generale Staf
+1854  verlof in Nederland
+1855  bevorderd tot Generaal-Majoor titulair
+1855, 3 mei benoemd tot Gouverneur van Suriname
+1859, april op zijn verzoek eervol ontslag en in augustus terug naar Nederland 
+1862, 5 juni benoemd tot legercommandant tot 1865
+
+foto van C.P. Schimpf in: De Militaire Willemsorde verzameld door P.H.K. van Schendel (i.z. toekenning MWO 3e klasse: expeditie Bali 28 en 29 juni 1846)
+
+kopie (via kleinzoon J.M. Schimpf) van zijn dienststaat, foto schilderij en brief conservator Paleis Het Loo Nationaal Museum over zijn eretekenen in hangmap baliekast bibliotheek 
+",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-08-27 15:04:40.400,0x000000000088C684,0,"Schimpf?  met enkel f?
+Volgens Naam- en Ranglijsten der Officieren en De Militaire Willemsorde 1815-1840 geboren in het jaar 1812, maar Encyclopaedie van Nederlandsch-West-Indië van H.D. Benjamins en J.F. Snelleman (Nijhoff, 1914-1917): 1813. Beide titels Schimpf met enkel f.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10376,0,0,50,"1812      ","1886      "
+321,1,0,"Pel, J.L.J.H., Generaal-majoor",Pel,J.L.J.H.,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor J.L.J.H. Pel,0,1876,NULL,"Generaal-majoor
+Bevelhebber te Atjeh van 23/04/1874 tot 24/02/1876. (Civiel en militair)
+Op 24/02/1876 plotseling overleden in het bivak bij de kampongs Ponga en Lonard.
+Commandeur Militaire Willemsorde (MWO 2)
+Broer van Generaal-majoor C.M.H. Pel.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 11:34:29.447,0x000000000088BC77,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9142,0,0,-1,NULL,"1876      "
+322,1,0,Köhler Johan Harmen Rudolf Generaal-majoor,Köhler,Johan Harmen Rudolf,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor Johan Harmen Rudolf Köhler,0,1873,gestorven 1873,"Generaal-majoor
+Gesneuveld in Atjeh op 12-04-1873.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 11:58:35.927,0x0000000001086F04,0,"Heshusius - Nadagen Tempo Doeloe - Fotoreproductie (van SKR/uit boek marechausee) in map 3 / R:
+- circa 1890, grote moskee in Koeta Radja met rechts de zogenaamde ""Köhlerboom"", de boom waaronder generaal Köhler sneuvelde in 1873 (en waarmee 1e Atjeh-expeditie ten einde kwam)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,6683,0,0,51,NULL,"1873      "
+324,1,0,Michiels André Victor Pacifice Generaal-majoor KNIL titulair,Michiels,André Victor Pacifice,Generaal-majoor KNIL titulair,NULL,NULL,NULL,NULL,Generaal-majoor KNIL titulair André Victor Pacifice Michiels,1797,1849,1797 - 1849,"Generaal-majoor titulair.; Gewond bij de 3e expeditie tegen Bali, en na amputatie overleden.
+Commandeur MWO, Nederlandse Leeuw, Java-oorlog, Officiers XXXV (adjudant i.b.d. Konings)
+Hij vocht onder Napoleon bij Waterloo, daarna ging hij naar Oost-Indië, vocht in de Java-oorlog en werd later benoemd tot Gouverneur van Sumatra´s Westkust. Daar speelde hij een doorslaggevende rol in de oorlog tegen de Padri´s.
+In de jaren ´40 had hij het aan de stok met de bestuursambtenaar E. Douwes Dekker, Michiels bezorgde Douwes Dekker een schorsing. In de ""Max Havelaar"" speelt Michiels onder naam van Generaal van Damme een belangrijke rol. Multatuli voorzag hem ook van de bijnaam ""Jan Schors-al"".
+Tot de tweede Wereldoorlog heeft er in Palembang een (uiterst curieus) neo-gotisch bouwwerk gestaan, dat dienst deed als monument voor deze ""tuan Madjan"", een andere bijnaam van Michiels. Michiels heeft ook een reeks geschriften nagelaten over het kolonialal bestuur op Sumatra´s Westkust. Hij verweerde zich in die geschriften onder meer tegen publicaties van H. de Stuers, die Michiels voorging als Gouverneur van Sumatra´s Westkust.[Informatie van Harm Stevens]",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 12:04:37.067,0x000000000146091C,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,8163,0,0,52,1797-05-30,1849-05-25
+327,1,0,"Bakker, G.",Bakker,G.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal G. Bakker MWO-3,1801,1869,1801 - 1869,"Gerhardus Bakker (1801-1869)
+
+- geboren te Winschoten op 8 maart 1801
+- 21 april 1815 cadet
+- 27 juli 1817 aankomst te Batavia
+- 19 december 1818 benoemd tot 2e luitenant der infanterie
+- 1821 deelgenomen aan krijgsverrichtingen in de omgeving van Palembang
+- 5 januari 1824 1e luitenant
+- 1824 en 1825 krijgsverrichtingen in Celebes (Boni-expeditie)
+- 1825 deelgenomen aan de Java-oorlog
+- 3 januari 1828 bevorderd tot kapitein
+- 13 februari 1831 met verlof naar Nederland
+- 21 maart 1832 tijdelijk in dienst van het leger in Nederland
+- 10 februari 1833 van verlof terug in Indië
+- 1833 en 34 gelegerd op de Westkust van Sumatra
+- 6 april 1835 bevorderd tot majoor
+- 8 september 1837 luitenant-kolonel
+- 1838 krijgsverrichtingen in de XIII kota's op Sumatra's Westkust
+- 12 juli 1846 bevorderd tot kolonel
+- 1836 expeditie tegen Bali
+- 8 februari 1849 met verlof naar Nederland
+- 13 juni 1850 bevorderd tot generaal-majoor titulair
+- 17 januari 1851 van verlof terug in Indië
+- 16 oktober 1851 Inspecteur der schutterijen, djajeng-sekars en pradjoerits
+-  van 15 december 1851 - 5 oktober 1853 tijdelijk legercommandant
+- 6 oktober 1853 generaal-majoor effectief in te gaan op 13 juni 1850
+- 3 april 1854 gepensioneerd
+- 4 november 1869 overleden te Bloemendaal.
+
+Onderscheiden met:
+
+- Java-medaille
+- Ridder Militaire Willemsorde 4e klasse bij Koninklijk Besluit van 7 mei 1822, nr. 29 [waarschijnlijk voor zijn verrichtingen tijdens de oorlog tegen de Padri's];
+- Ridder Militaire Willemsorde 3e klasse bij K.B. van 6 december 1846, nr. 4 voor zijn krijgsverrichtingen tijdens de expeditie naan Bali van 1846;
+- Ridder in de Orde van de Nederlandsche Leeuw voor zijn bijdrage aan de strijd in Goegoer Malintang.
+
+Sultan Soemenep Pakoe Nata Ningarat (1781-1854)
+
+Deze sultan (overigens een titel die hij eerst in 1830 kreeg) werd geboren in 1781. Samen met zijn vader nam hij in 1811 deel aan de verdediging van Soerabaija tegen de Engelsen.
+In 1815 [en niet 1812] volgde hij zijn vader op in het regentschap onder de titel van Panembahan Noto Koesomo.
+Hij wordt in de bronnen geloofd om zijn trouw aan het Nederlandse Gouvernement, als ook om zijn belangstelling voor land en volk en zijn geleerdheid. Veel informatie over hem is te vinden in het reisverhaal van Van Hoëvell ""Reis over Java, Madura en Bali in het midden van 1847"" (Amsterdam, 1851). Van Hoëvell noemt hem een voortreffelijk vorst en roemt hem als mens en geleerde en eveneens in zijn hoedanigheid als regent en krijgsman.
+Raffles had, bij zijn nasporingen naar Java's geschiedenis en oudheden veel aan deze vorst te danken. Hij vergezelde Raffles op zijn vele reizen over Java en werd door deze in zijn ""History of Java"" geprezen om zijn schat aan kennis. De zeer uitvoerige lijsten van Kawi, Javaanse, Madurese en Sumenapse woorden,  de belangrijkste familiekronieken, de verklaringen der inscripties, de kenis van de ""Brata-joeda"", dit alles is vooral met zijn hulp tot stand gekomen. Als dank verzekerde Raffles zijn zoon van de opvolging (een beschikking die in 1820 door GG Van der Capellen werd bevestigd). 
+Kort na het weer in bezitnemen van de kolonie, was hij op 4 oktober 1817 met het gouvernement overeengekomen om een korps militairen ± 1000 man sterk, te leveren. Zelf nam hij deel aan de Boni-expedie (Celebes) in 1824 en in 1825 aan de strijd tegen Dipa Negara. Hij bleef verder hulp bieden in de oorlog tegen de Padri's op Sumatra's Westkust in 1835 en tijdens de expeditie op Bali van 1846.
+Als regent stimuleerde hij de landbouw in zijn district door nieuwe waterleidingen te laten graven en sawah's aan te leggen, de handel door wegenaanleg en door de bouw van schepen. 
+Vijf jaar nadat de Panembahan in de oorlog tegen Boni goede diensten had bewezen en zijn hulp opnieuw had aangeboden in de strijd tegen Dipa Negara, beloonde de Nederlandse regering hem met de toekenning van de persoonlijke titel van sultan van Soemenep, onder de naam van Pakoe Nata ring Rat.
+Hij overleed op 73-jarige leeftijd in 1854.
+
+Het contact tussen kolonel G. Bakker en de sultan van Soemenep kan dus op vele momenten gelegd zijn: ofwel hebben zij elkaar leren kennen tijdens de veldtocht naar Boni of de gedurende de Java-oorlog, ofwel tijdens een bezoek aan de kraton van Bakker bij een inspectiereis in zijn functie als Inspecteur van de pradjoerits. Ook in zijn hoedanigheid als legercommandant kan Bakker de sultan van Soemenep bij diverse gelegenheden ontmoet hebben. 
+
+Geraadpleegde literatuur:
+
+- Encyclopaedie van Nederlandsch-Indië / 2e druk onder redactie van J. Paulus e.a. (1917-1939)
+- Naam- en ranglijst der officieren van het Koninklijk Leger der Nederlanden en van Nederlandsch-Indiën, verschillende jaargangen
+- W.R. van Hoëvell, Reis over Java, Madura en Bali in het midden van 1847 (Amsterdam, 1851) 2e deel
+
+
+[bron: brief M.Gaspar aan KIT 13 november 2007; zie brievenboek bibliotheek nr. 883-2007]",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 12:09:17.660,0x000000000088C687,0,NULL,NULL,NULL,MWO-3,NULL,NULL,NULL,NULL,0,0,0,1351,0,0,53,"1801      ","1869      "
+330,1,0,Poland Theodoor RMWO-3 Kolonel titulair Infanterie KNIL,Poland,Theodoor,Kolonel titulair Infanterie KNIL,NULL,NULL,NULL,NULL,Kolonel titulair Infanterie KNIL Theodoor Poland RMWO-3,1795,1857,1795 - 1857,"Kolonel titulair infanterie KNIL
+Theodoor (bijgenaamd Toontje) Poland. Luitenant-Kolonel en Ridder Mil. Willems-Orde 3e klasse, Ridder Orde Ned. Leeuw.- Vocht in de Java-Oorlog en bij de 2e en 3e Expeditie tegen Bali.- Ontzette in 1833 tijdens de Padri-Oorlog het belegerde fort Amerongen op de Westkust van Sumatra.
+Geboren te Alkmaar, overleden te Tjilatjap.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 12:11:24.510,0x00000000013FB010,0,Map met gegevens in AD 78,NULL,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,9397,0,0,4093,1795-01-20,1857-12-19
+340,1,0,"Bischoff, B., Generaal",Bischoff,B.,Generaal,NULL,NULL,NULL,NULL,Generaal B. Bischoff,1787,1829,1787 - 1829,"Generaal
+Cdt KNIL 1828-1829",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 15:46:14.937,0x000000000088C688,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,1853,0,0,54,"1787      ","1829      "
+343,1,0,Kruk J.A. van der Kapitein der Artillerie,Kruk,J.Adrianus,Kapitein der Artillerie,NULL,NULL,NULL,NULL,Kapitein der Artillerie J.A. van der Kruk,1837,1876,1837 - 1876,"Kapitein der Artillerie; Ridder der Militaire Willemsorde 4 klasse; Gesneuveld te Lampermeij in Atjeh op 05/02/1876
+Uit Nederland vertrokken per stoomschip Loevestein in 1857.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-01 15:53:17.093,0x000000000088C689,0,NULL,NULL,van der,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,7018,0,0,55,"1837      ","1876      "
+350,1,0,Nolthenius Adriaan Wilhelm Kapitein der Genie,Nolthenius,Adriaan Wilhelm,Kapitein der Genie,NULL,NULL,NULL,NULL,Kapitein der Genie Adriaan Wilhelm Nolthenius,1839,1873,1839 - 1873,Kapitein der Genie; Bij de 2e Atjeh-expeditie aan cholera overleden.,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:02:18.090,0x000000000088C68A,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,8729,0,0,56,"1839      ","1873      "
+356,1,0,Andresen A.J. Luitenant-generaal,Andresen,A.J.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal A.J. Andresen MWO-3,1808,1872,1808 - 1872,"Luitenant-generaal, MWO-3
+
+Oud-commandant van het Indisch leger: 1865-1869",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:23:42.507,0x000000000088C68B,0,NULL,NULL,NULL,MWO-3,NULL,NULL,NULL,NULL,0,0,0,1119,0,0,57,"1808      ","1872      "
+358,1,0,Kroesen C.M.H. Majoor,Kroesen,C.M.H.,Majoor,NULL,NULL,NULL,NULL,Majoor C.M.H. Kroesen,0,1859,gestorven 1859,"Majoor; Gewond bij Boni op 06/12/1859 en als gevolg daarvan op 15/12/1859 overleden. 
+
+2006/11/06: Heleen Pronk:Waarschijnlijk een Kapitein die ingezet is te Boni in Suriname. zie www.geheugenvannederland.nl.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:26:43.967,0x000000000088C68C,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,6967,0,0,58,NULL,"1859      "
+360,1,0,Nijs de 1e Luitenant,Nijs,NULL,1e Luitenant,NULL,NULL,NULL,NULL,1e Luitenant de Nijs,0,1868,gestorven 1868,1e Luitenant; Gesneuveld op Bali in 1868.,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:29:22.753,0x000000000088C68D,0,NULL,NULL,de,NULL,NULL,NULL,NULL,NULL,0,0,0,8698,0,0,59,NULL,"1868      "
+361,1,0,Schierbrand W.C. von Luitenant-generaal,Schierbrand,W.C.,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal W.C. von Schierbrand,0,1888,gestorven 1888,"Luitenant-generaal
+1824 Volontair
+1826 Cadet Ingenieur
+1828: 1e Luitenant
+1837/03/16: Kapitein Genie en Sappeurs
+1825-1865 onafgebroken in Indie.
+1854 Kolonel Directeur der Genie
+1862 Generaal majoor Directeur der Genie.
+1867 19 februarij Luitenant generaal
+1867, 1 april op verzoek gepensioneerd.
+Dresden November 1869.
+Ridder in de Orde van de Nederlandse Leeuw
+Kommandeur der Orde van de Eikenkroon.
+Lid van de kommissie van beheer der tentoonstelling van produkten der natuur en der industrie van den Indischen archipel te houden te Batavia in oktober en november 1853.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:31:59.310,0x00000000013A702F,0,NULL,NULL,von,NULL,NULL,NULL,NULL,NULL,0,0,0,10359,0,0,4003,NULL,1888-02-20
+362,1,0,"Vermeulen Krieger, P. Luitenant-kolonel",Vermeulen Krieger,P.F.,Luitenant-kolonel,NULL,NULL,NULL,NULL,"Luitenant-kolonel P.F.  Vermeulen Krieger, RMWO-3",1782,1865,1782 - 1865,"Luitenant-kolonel, Ridder der Militaire Willemsorde 3e klasse (bij KB van 8-12-1820 No. 67), Ridder der Nederlandse Leeuw met ridderkroon; 1782-1865. Eikenkroon Luxemburg. (RMWO-4 in 1818)",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:33:10.130,0x000000000088C68E,0,NULL,NULL,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,12136,0,0,60,"1782      ","1865      "
+364,1,0,Stegeman 1e Luitenant,Stegeman,NULL,1e Luitenant,NULL,NULL,NULL,NULL,1e Luitenant Stegeman,0,1868,died 1868,1e Luitenant; Gesneuveld op Bali in 1868.,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-02 16:34:56.353,0x00000000014932BF,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,11137,0,0,4199,NULL,"1868      "
+372,1,0,Waldeck P.F. van Officier,Waldeck,P.F.,Officier van Gezondheid der eerste klasse,NULL,NULL,NULL,NULL,Officier van Gezondheid der eerste klasse P.F. van Waldeck RMWO-4,1805,1880,1805 - 1880,"Oud-Officier van Gezondheid 1e klasse; Ridder Militaire Willemsorde 4e klasse (1845), Eervolle Vermelding, EBK met gesp Bali 1848, , Java-medaille, Metalen Kruis. Citadel, Officiers kruis",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-07 15:55:58.163,0x000000000088C68F,0,NULL,NULL,van,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,12619,0,0,61,"1805      ","1880      "
+374,1,0,Vogel H.H.F. de Kapitein,Vogel,H.H.F.,Kapitein,NULL,NULL,NULL,NULL,Kapitein H.H.F. de Vogel,0,1836,gestorven 1836,"Kapitein; Overleden aan voor Bondjol opgelopen verwondingen.
+Ridder Militaire Willemsorde 4e Klas. Bij de bestorming van Bonjol op 4.12.1836 gewond en op 25.12.1836 overleden.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-07 15:58:18.193,0x000000000088C690,0,W.H.F. Vogel?,NULL,de,NULL,NULL,NULL,NULL,NULL,0,0,0,12342,0,0,62,NULL,"1836      "
+397,1,0,Prins Willem I,Oranje-Nassau,Willem I,Prins,NULL,NULL,NULL,NULL,Prins Willem I,1533,1584,NULL,"Volgens Thieme (blz. 130; inv.nr. 1440): 1e stadhouder, Kapitein-admiraal en Generaal van de Verenigde Nederlanden en ridder in de Orde van de Kouseband.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-08 10:57:31.350,0x000000000088BC85,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9526,0,0,-1,"1533      ","1584      "
+403,1,0,Prins Frederik Hendrik,Oranje-Nassau,Frederik Hendrik,Prins,NULL,NULL,NULL,NULL,Prins Frederik Hendrik,1584,1647,NULL,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-08 16:30:53.633,0x000000000088BC86,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9510,0,0,-1,"1584      ","1647      "
+442,1,0,Chassé David Hendricus,Chassé,David Hendricus,Luitenant-generaal,NULL,NULL,NULL,NULL,Luitenant-generaal David Hendricus Baron Chassé,1765,1849,1765-1849,"David Henricus, Baron Chassé, Luitenant-Generaal, opperbevelhebber van de citadel van Antwerpen, en van zijner Majesteits Zeemagt op de Ooster-schelde.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-14 12:03:06.610,0x000000000088C691,0,NULL,NULL,Baron,NULL,NULL,NULL,NULL,NULL,0,0,0,2835,0,0,63,"1765      ","1849      "
+474,1,0,"Brienen van Ramerus, G.C.R.R. van, Kolonel",Brienen van Ramerus,Gijbert Carel Rutger Reinier,Kolonel,NULL,NULL,NULL,NULL,"Kolonel G.C.R.R. van Brienen van Ramerus, RMWO-4",1807,1871,1807 - 1871,"Kolonel van de Generalen Staf; Ridder Militaire Willemsorde 4e klasse (1831), Java-medaille, Metalen Kruis, Legion d'Honneur.
+",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-15 11:15:12.263,0x000000000088C692,0,NULL,NULL,van,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,2410,0,0,64,"1807      ","1871      "
+481,1,0,Dommers H.,Dommers,H.,Majoor Chirurgijn,NULL,NULL,NULL,NULL,"Majoor Chirurgijn H. Dommers, RMWO-4",1805,1844,1805 - 1844,"Majoor der Infanterie van het Oost-Indisch leger; Ridder Militaire Willemsorde 4e klasse (1834), Chirurgijn",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-16 14:21:48.910,0x000000000088C693,0,NULL,NULL,NULL,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,3479,0,0,65,"1805      ","1844      "
+483,1,0,"Backerus, J.F., Majoor",Backerus,J.F.,Majoor der Infanterie,NULL,NULL,NULL,NULL,"Majoor der Infanterie J.F. Backerus, RMWO-3",1819,1880,1819 - 1880,"Majoor der Infanterie van het Oost-Indisch leger. Notitie:
+MWO 4 (1852), Palembang 1851, MWO 3 (1859) Djambi 1858, EV, EBK Bali 1846, Of. Kruis XV.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-16 15:14:28.767,0x000000000088C694,0,NULL,NULL,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,1300,0,0,66,"1819      ","1880      "
+485,1,0,"Nahuijs, Heer van Burgst Huibert Gerard","Nahuijs, Heer van Burgst",Huibert Gerard,Generaal-majoor hon Mr.,NULL,NULL,NULL,NULL,"Generaal-majoor hon Mr. Huibert Gerard Baron Nahuijs, Heer van Burgst RMWO-4",1782,1858,1782 - 1858,"Generaal-majoor honorair; 1782-1858; Lid van de Raad van Indië; Ridder Militaire Willemsorde 4e klasse (1815), Commandeur Orde van de Nederlandse Leeuw, Legioen van Eer. Java medaille, Metalen kruis.
+Geboren te Amsterdam, 28.03.1782, gestorven te Princehage, h. Burgst 12.01.1858.
+""Zoon van Mr. Petrus Cornelis Nahuys (1747-1804) en Catharina de Saint Amand (1748-1788). Vader Nahuys was notaris en procureur te Amsterdam. Huibert Nahuys was resident van Djokjakarta en Soerakarta, lid van de Raad van Indië en generaal-majoor. Hij droeg de titel Ridder in de Militaire Willemsorde der 4e klasse. Huibert huwde op 24.4.1802 te Berkhout, Aleyda Johanna Catharina Geertruy de Vries (1782-1821). Hij hertrouwde op 12.9.1824 te Djokjakarta met Anna Louise van den Berg (1792-1825) en op 28.12.1826 te London met zijn derde echtgenote Ellen Hodgson.
+",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-16 15:17:12.660,0x000000000088C695,0,NULL,NULL,Baron,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,8522,0,0,67,"1782      ","1858      "
+496,1,0,Roque Th.E. Luitenant-kolonel,Roque,Th.E.,Luitenant-kolonel,NULL,NULL,NULL,NULL,Luitenant-kolonel Th.E. Roque RMWO-3,1809,1875,1809 - 1875,"Luitenant-kolonel van het Nederlands Oost-Indisch Leger; Ridder Militaire Willemsorde 3e klasse (1851), RMWO-4 (1841).
+De decoratiën van wijlen den gepens. Luit-kolonel van het Ned. O.I. Leger Th.E. Roque, bestaande uit de Militaire Willemsorde 3e klasse, het eereteeken voor eervolle vermelding in den strijd, het eereteken voor belangrijke krijgsbedrijven met de gesp Bali 1849, de medaille voor den oorlog op Java en het onderscheidingsteeken voor eervolle langdurige dienst als officier.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-17 11:43:23.700,0x000000000088C697,0,NULL,NULL,NULL,RMWO-3,NULL,NULL,NULL,NULL,0,0,0,10079,0,0,69,"1809      ","1875      "
+498,1,0,Dezentjé Johannes Augustinus Dhr.,Dezentjé,Johannes Augustinus,Dhr.,NULL,NULL,NULL,NULL,Dhr. Johannes Augustinus Dezentjé,1797,1839,1797-1839,"Ridder der Nederlandse Leeuw; Java-medaille
+Heeft zich in Nederlands-Indië zeer verdienstelijk gemaakt.
+
+Johannes Augustinus Dezentjé
+(Soerakarta 1797 - Bojolali 1839)
+""Heer van Ampel""
+Ridder in de Orde van de Nederlandse Leeuw
+Java medaille
+
+zoon van een luitenant der koloniale troepen, verkreeg door zijn huwelijken grote rijkdom en aanzien en werd zo de machtigste grondhuurder in Midden-Java.
+Hij koos tijdens de Java-oorlog (1825-1830), met een eigen leger, de kant van de Nederlanders en werd als dank voor zijn verdiensten benoemd tot Ridder in de Orde van de Nederlandse Leeuw.
+
+
+
+",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-09-17 15:24:38.080,0x000000000088C698,0,"Johannes Augustinus Dezentjé is geboren te Soerakarta op 12 april 1797 en strierf te Bajalali op 7 november 1839. Hij was 4 x gehuwd (o.a. met Raden Ajoe Tjondro Koesomo) en had 17 kinderen. Dezentjé was degrootste en machtigste grondhuurder in het Solosche gebied. Enige cijfers: hij zou 5 % van het totale grondgebied van Soerakarta hebben gehuurd, en op dit gebied woonden 38.717 Javanen. In 1837 bracht zijn grond bijna 1/3 van de totale koffieoogst van Solo op (bron: Houben, 1994, p. 262). Ten tijde van de Java-oorlog nam hij met een klein particulier leger deel aan de strijd.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,3307,0,0,70,"1797      ","1839      "
+509,1,0,"Boers, F., Sergeant-majoor",Boers,F.,Sergeant-majoor der Mariniers,NULL,NULL,NULL,NULL,Sergeant-majoor der Mariniers F. Boers,0,1896,NULL,Sergeant-majoor der Mariniers,NULL,NULL,NULL,sa/KTOMB_W12,1998-09-18 15:20:37.840,0x000000000088BC92,0,Sergeant-majoor der mariniers,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,2016,0,0,-1,NULL,"1896      "
+522,1,0,Payen Antoine J.J.,Payen,Antoine J.J.,NULL,NULL,NULL,NULL,NULL,Antoine J.J. Payen,1792,1853,1792 - 1853,1792-1853,NULL,NULL,NULL,sa/KTOMB_W12,1998-09-22 15:37:28.523,0x000000000088C69D,0,schilder begin 19e eeuw,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9110,0,0,75,"1792      ","1853      "
+554,2,0,Saleh Raden,Saleh,NULL,Raden,NULL,NULL,NULL,NULL,Raden Saleh Syarif Bustaman,1811,1880,1811 - 1880,"Familie van de regent van Semarang. Leerling van Antoine Payen, Cornelis Kruseman en Andreas Schelfhout. Kwam in 1829 naar Nederland en keerde terug naar Java in 1852. Vanaf 1868 woonde hij in Buitenzorg.",NULL,I,NULL,sa/KTOMB_W12,1998-09-30 16:15:42.150,0x000000000088C6A2,0,"schilder 19e eeuw
+
+Heshusius - Kiekjes uit Indië - Reproductiefoto (van Rob Nieuwenhuys) in map 5-IIA:
+- studio portretfoto, circa 1880, van Raden Saleh, in uniformachtige kleding met twee medailles.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10215,0,0,80,"1811      ","1880      "
+555,1,0,Prins Alexander,Oranje-Nassau,Alexander,Prins,NULL,NULL,NULL,NULL,Prins Alexander,1851,1884,1851 - 1884,Derde zoon van Koning Willem III en Koningin Sophie,NULL,NULL,NULL,sa/KTOMB_W12,1998-09-30 16:18:26.393,0x0000000001070AE4,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9505,0,0,81,"1851      ","1884      "
+560,1,0,Sentot,Sentot,NULL,NULL,NULL,NULL,NULL,NULL,Sentot,1808,1855,1808 - 1855,"Aanvoerder onder Pangeran Dipanegara.
+
+zoon van een Javaans regent, beter bekend onder de naam Sentot, de heilige of edele, werd, op grond van zijn militaire bekwaamheden, op 18-jarige leeftijd door Dipa Negara aangesteld tot opperbevelhebber van zijn leger. 
+Hij kon behalve over geregelde troepen, die hij goed georganiseerd, bewapend en geoefend had, ook nog beschikken over duizenden boeren, die onder zijn bezielende leiding deel namen aan de strijd.
+In 1829 gaf hij zich echter over, trad vervolgens met zijn manschappen in Nederlandse dienst en vocht later nog aan Nederlandse zijde in de Padri-oorlog op Sumatra.
+
+Multatuli heeft Sentots soldaten nog gekend en schrijft deze lovende woorden over hen:
+""Nog in mijn tijd -die wat Indië aangaat, een aanvang nam in Januari 1839- onderscheidden zich de uit Sentot's Barissan (geregelde troepen) afkomstige soldaten door goed gedrag, tucht en militaire houding. Het was niet zeldzaam by inspektien of parades, een hoofdofficier, by 't wyzen op 'n flinken kerel, te hooren zeggen: Ienie apa lagie orangnja Sentot! ""Dat is nog 'n man van Sentot!""
+
+[uit: ""Aanteekeningen en ophelderingen by de uitgaaf van 1875"" , no. 5, in de ""Max Havelaar of de koffij-veilingen der Nederlandsche Handelsmaatschappij"" / door Multatuli (uitgegeven naar den druk van 1875)]",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-10-01 13:29:22.797,0x0000000001070AE5,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10635,0,0,82,"1808      ","1855      "
+561,1,0,Madja Kjai,Madja,Kjai,NULL,NULL,NULL,NULL,NULL,Kjai Madja,1795,1849,1795 - 1849,"Mohammedaanse priester die met Dipanegara de opstand voorbereidde.
+Kjai Madja
+(± 1795 -  1849)
+
+Islamitische schriftgeleerde, afkomstig uit Madja (bij Telaga-residentie Cheribon), had grote invloed op Dipa Negara en was tevens diens politieke adviseur tijdens de Java-oorlog (1825-1830).
+Het was bovenal aan zijn invloed te danken dat de strijd het karakter kreeg van een heilige oorlog.
+In 1828 brak hij met Dipa Negara, werd kort daarop door de Nederlanders gevangen genomen en verbannen naar Menado, waar hij in 1849 overleed.
+
+",NULL,I,NULL,SantenC/KTOMB_W075,1998-10-01 13:31:10.830,0x000000000088C6A5,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,7763,0,0,83,"1795      ","1849      "
+577,1,0,Leich J.C.,Leich,Johan Coenraad,NULL,NULL,NULL,NULL,NULL,J.C. Leich,1823,1890,NULL,"Stadtekenmeester in Nieuwediep 1849-1888; Tekenaar op het Koninklijk Instituut voor de Marine 1867-1888; Geboren in Den Haag alwaar hij zijn opleiding kreeg aan de Academie voor Beeldende Kunst. Vervolgens werkte hij enkele jaren als tekenleraar en schilder in Purmerend(1844) en Antwerpen(1847) tot hij na het overlijden van de heer J.Paling in 1849 werd benoemd als leraar aan de tekenschool van de Maatschappij tot 't Nut van 't Algemeen aan de Hoofdgracht te Den Helder. Leich trouwde met Jacomina Visscher (Amsterdam 1811-1888) en vestigde zich in wijk 1 nummer 71 (Kanaalweg).
+Overleden te Haarlem 1890
+
+Artikel van Jan T.Bremer in ""Levend Verleden"" een uitgave van de Helderse Historische Vereniging (tiende jaargang nr.4 juni 1998) herdrukt in ""De Postboei"" jaargang 8 nr. 3 Nieuws van en over het Marinemuseum",NULL,NULL,NULL,sa/KTOMB_W12,1998-10-02 15:24:32.340,0x000000000088BC9E,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,7383,0,0,-1,"1823      ","1890      "
+593,1,0,Willem I Koning,Oranje-Nassau,Willem I,Koning,NULL,NULL,NULL,NULL,Koning Willem I,1772,1843,1772 - 1843,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-10-07 15:05:18.157,0x000000000088C6AB,0,"Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz, enz.",NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,13025,0,0,89,"1772      ","1843      "
+595,1,0,Willem Kroonprins,Oranje-Nassau,Willem,Kroonprins,NULL,NULL,NULL,NULL,Kroonprins Willem,1840,1879,NULL,"Eerste zoon van Koning Willem III en Koningin Sophie
+Overleden te Parijs op 11-6-1879",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-10-07 15:19:56.030,0x000000000088BCA1,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,13029,0,0,-1,"1840      ","1879      "
+600,1,0,"Oemar, Teukoe",NULL,Oemar,Teukoe,NULL,NULL,NULL,NULL,Teukoe Oemar,0,1899,gestorven 1899,"Encyclopaedie van Nederlands-Indië / Sam. J.F. Suelleman, Leiden 1905, p.398-399 ""biografie van Toekoe Oemar""
+Tekoe Oemar (in M.H. Székely- Lulofs, Tjoet Nja Din: De roman van een Atjehse vorstin (Amsterdam, 1948).Passim
+
+Teukoe Oemar (in de artikelen in het Indisch Militair Tijdschrift over de Atjeh-oorlog
+
+Teukoe Oema in J. Kreemer, Atjeh: algemeen samenvattend overzicht van land en volk van Atjeh en Onderhoorigheden (Leiden, 1922) , p. 33 e.v.
+
+Toekoe Oemar in A. Kruisheer, Atjeh 1896, dl 1en dl2 (Weltevreden 1913). Passim
+
+Teukoe Oema (ook Teukoe Oemar) bij de grote arabist: C Snouck Hurgronje, De Atjehers, dl en 2 (Batavia [etc] 1894, I: 152 vv., 156, 164, 181, 182, 187, 189, 195. II:108, 111, 115 vv., 159, 173, 182, 183.)
+
+Teuku Umar (in J. Rep, Atjeh, Atjeh!(Baarn, 1996). Passim
+
+Teuku Umar ook in het in Aceh zelf uitgegeven boek Perang Kolonial Belanda di Aceh (Banda Aceh, 2ed. 1990)
+",NULL,I,NULL,sa/KTOMB_W12,1998-10-09 08:31:50.887,0x000000000143A8B9,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,8801,0,0,4127,NULL,"1899      "
+606,1,0,Stuers Hubert Joseph Jean Lambert ridder de MWO-3 Generaal-majoo,Stuers,Hubert Joseph Jean Lambert,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor Hubert Joseph Jean Lambert ridder de Stuers MWO-3,1788,1861,1788 - 1861,"Generaal-majoor; Bevelhebber van het Nederlands Oost-Indisch leger 1830-1835.
+Vader: Joseph Bernard de Stuers; Moeder: Aloise de la Court.
+Vader van Karel van der Heijden (1824-1901)
+Gehuwd met Hortense Josephine Constance Beyens in 1838.
+
+trad bij het Fransche leger als vrijwilliger in dienst en doorliep daarbij alle rangen, totdat hij in 1817 naar O. Indië vertrok met den rang van Lt. kolonel. In 1821 werd hij kommandant van de Molukken, doch ging niet daarheen omdat hij adjudant werd van den Gouverneur generaal. In 1822 voerde hij het bevel over de expeditie tegen de Chineezen op Borneo; in 1823 herstelde hij de rust op Celebes, en was van 1824 tot 1829 militair kommandant en resident van Padang en onderhoorigheden. Van 1831 tot 1838 was hij Generaal en kommandeerde het Indische leger, waarna hij ambteloos te Maastricht leefde. Hij schreef: 
+De vestiging en uitbreiding der Nederlanden ter westkust van Sumatra, met platen en kaart, 2 delen., Amsterdam 1849-1850; 
+Aanmerkingen op het werk: Het Nederlands Oostindisch Indisch leger ter westkust van Sumatra door den Luitenant-kolonel Lange (eerst geplaatst in het Tijdschrift voor Ned.-Indië, later afzonderlijk uitgegeven te) Zalt-Bommel 1853; 
+In het Tijdschrift voor Ned. Indië jaargang 1854 schreef hij: De expeditie tegen Tanette en Soepa (op Celebes) in 1824.",NULL,NULL,NULL,sa/KTOMB_W12,1998-10-13 14:53:37.867,0x000000000088C6AD,0,"Mogelijk is dit dezelfde persoon als de ""de Steurs"" in recordnr. 310.",NULL,ridder de,MWO-3,NULL,NULL,NULL,NULL,0,0,0,11327,0,0,91,"1788      ","1861      "
+615,1,0,Poll J.S. van de Kapitein Jhr.,Poll,J.S.,Kapitein der Infanterie Jhr.,NULL,NULL,NULL,NULL,Kapitein der Infanterie Jhr. J.S. van de Poll RMWO-4,1825,1879,1825 - 1879,"Kapitein van het Oost-Indisch Leger; gehuwd met E.H.N.C. van Bevervoorden tot Oldemeule (geboren 1827 te Groningen)
+Ridder Militaire Willemsorde 4e klasse (1852) voor Acties te Palembang 1851-1852. Eervolle Vermelding, Johannieter Orde.  Gehuwd met E.H.N.C. van Bevervoorden tot Oldemeule, geboren 187 te Groningen.",NULL,NULL,NULL,sa/KTOMB_W12,1998-10-14 09:44:17.353,0x000000000088C6AE,0,NULL,NULL,van de,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,9417,0,0,92,"1825      ","1879      "
+673,1,0,Schouman Izaak Dhr.,Schouman,Izaak,Dhr.,NULL,NULL,NULL,NULL,Dhr. Izaak Schouman,1801,1878,1801 - 1878,"Kunstschilder
+Izaak Schouman (Dordrecht 1801 - Zetten 1878) leerling van Martinus Schouman, in 1828 medeoprichter van ´Tandem fit surculus arbor´, werd in 1836 leraar handtekenen aan de KMA te Breda. zie ook Scheen, Immerzeel en RKD artist.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-02 09:51:07.897,0x000000000129916A,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10492,0,0,96,"1801      ","1878      "
+680,1,0,Willem II Koning,Oranje Nassau,Willem II,Koning,NULL,NULL,NULL,NULL,Koning Willem II,1792,1849,1792 - 1849,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-03 09:56:45.843,0x000000000088C6B3,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,13026,0,0,97,"1792      ","1849      "
+683,1,0,Speijk J.C.J. van Luitenant-ter-zee,Speijk,J.C.J.,Luitenant-ter-zee,NULL,NULL,NULL,NULL,Luitenant-ter-zee J.C.J. van Speijk,1802,1831,1802 - 1831,"Luitenant-ter-zee.
+Geboren 31 januari 1802, de heldendood gestorven 5 februari 1831.
+""Zie Volk van Nederland, in 't moedig jonglings beeld
+Van Speijk; een fiere welp uit Neerlands leeuwenteelt!
+De lont, die in zijn hand Oud Holland heeft gewroken,
+Heeft voor zijn naam een zon van eeuwgen roem ontstoken.""
+Door: A. van der Hoop jr.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-03 14:20:04.733,0x000000000088C6B4,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,10990,0,0,98,"1802      ","1831      "
+693,1,0,"Bouricius, J.F.D., Vice-admiraal",Bouricius,Jan Frederik Daniel,Vice-admiraal,NULL,NULL,NULL,NULL,"Vice-admiraal J.F.D. Bouricius, Adjudant des Konings in buitengewone dienst",1799,1859,1799 - 1859,"Vice-admiraal; te Arnhem geboren op 23-6-1799 en op 4-5-1859 overleden op de thuisreis vanuit Nederlands-Indië op het fregat De Ruiter.
+Op passepartout in rechter benedenhoek in pen: ""Jan Frederik Daniel Bouricius, geb. t.Arnhem 23 Julij 1799. Viceadmiraal, Commandant der Zeemagt in de O.I. Adjudant des Konings in buitengewone dienst. Gehuwd 1826 te Doesborgh met Konkvre. Johanna Christina Frederika Elisabeth de [Vogues van Arakel].""",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-04 10:28:59.250,0x000000000088C6B5,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,2283,0,0,99,"1799      ","1859      "
+700,1,0,Prins Hendrik,Oranje-Nassau,Hendrik,Prins,NULL,NULL,NULL,NULL,Prins Hendrik,1820,1879,1820 - 1879,Derde zoon van Koning Willem II en Koningin Anna Paulowna,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-04 10:45:28.363,0x000000000088C6B6,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9512,0,0,100,"1820      ","1879      "
+710,1,0,Pels Rijcken Gerhard Christiaan Coenraad Vice-admiraal,Pels Rijcken,Gerhard Christiaan Coenraad,Vice-admiraal,NULL,NULL,NULL,NULL,Vice-admiraal Gerhard Christiaan Coenraad Pels Rijcken,1810,1889,1810 - 1889,"Gepensioneerd Vice-admiraal; Minister van Marine; Buitengewoon adjudant des Konings.
+Gehuwd met Johanna Maria Catherina Willinck op 8 januari 1849.
+In 1854 was hij commandant van de missie naar Japan om daar het stoomschip Soembing over te dragen aan Japan.
+Van juli 1855 tot en met oktober 1857 gaf hij onderwijs aan marine mensen in Japan op het eiland dejima. Hij was toe 1e luitenant ter zee der 1e klasse.
+Hij was minister van marine van 1866 tot 1868 in het conservatieve kabinet Van Zuijlen van Nijevelt.",NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-04 15:23:50.970,0x000000000130EF7E,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9151,0,0,3934,1810-01-10,1889-05-02
+716,1,0,Prins Willem II,Oranje-Nassau,Willem II,Prins,NULL,NULL,NULL,NULL,Prins Willem II,1792,1849,1792 - 1849,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 09:42:09.623,0x000000000088C6B7,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9527,0,0,101,"1792      ","1849      "
+717,1,0,Prins Willem III,Oranje-Nassau,Willem III,Prins,NULL,NULL,NULL,NULL,Prins Willem III,1650,1702,NULL,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 09:43:32.190,0x000000000088BCAF,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9528,0,0,-1,"1650      ","1702      "
+718,1,0,Prins Willem IV,Oranje-Nassau,Willem IV,Prins,NULL,NULL,NULL,NULL,Prins Willem IV,1711,1751,NULL,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 09:44:26.670,0x000000000088BCB0,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9529,0,0,-1,"1711      ","1751      "
+719,1,0,Prins Willem V,Oranje-Nassau,Willem V,Prins,NULL,NULL,NULL,NULL,Prins Willem V,1748,1806,NULL,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 09:45:35.267,0x000000000088BCB1,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9530,0,0,-1,"1748      ","1806      "
+722,1,0,Prins Frederik,Oranje-Nassau,Frederik,Prins,NULL,NULL,NULL,NULL,Prins Frederik,1797,1881,1797 - 1881,Broer van Koning Willem III.,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 12:16:16.430,0x000000000088C6BA,0,Broer van Koning Willem II,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9509,0,0,104,"1797      ","1881      "
+723,1,0,Anna Paulowna Prinses,NULL,Anna Paulowna,Prinses,NULL,NULL,NULL,NULL,Prinses Anna Paulowna,1795,1865,1795 - 1865,NULL,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-09 12:20:22.153,0x0000000001070ACB,0,"Prinses van Oranje, geboren Groot-Vorstin van Rusland",NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,1133,0,0,105,"1795      ","1865      "
+729,1,0,Guervin Jerôme,Guervin,Jerôme,NULL,Bronbeek,NULL,NULL,NULL,Jerôme Guervin,1841,1896,1841 - 1896,"Is op Bronbeek verpleegd. Overleden aan een longontsteking
+Koloniaal Werfdepot 1876/01/13
+Geembarkeerd: 1876/02/19
+Gedebarkeerd te Batavia: 1876/05/31
+Gegageerd met fl.100,- 's jaars : 1877/12/14
+
+Lengte: 157cm.
+Moeder: Catherine Benoit
+Vader: Jacques Antoine Guervin.
+Laatst gewoond te Rouen.",NULL,Frans,NULL,SantenC/KTOMB_W075,1998-11-10 14:30:13.933,0x000000000142A4E0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,4739,0,0,4113,1841-11-06,1896-06-01
+731,1,0,La Fors P.F.T. Kapitein,La Fors,P.F.T.,Kapitein,NULL,NULL,NULL,NULL,Kapitein P.F.T. La Fors,0,1873,NULL,Kapitein; Op 25-9-1873 gesneuveld bij een verkenning nabij Kampong Penajoeng (Atjeh).,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-10 16:37:26.440,0x000000000088BCB6,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,7105,0,0,-1,NULL,"1873      "
+733,1,0,Valkenburg C. van Luitenant-kolonel,Valkenburg,C.,Luitenant-kolonel,NULL,NULL,NULL,NULL,Luitenant-kolonel C. van Valkenburg,1784,1831,1784 - 1831,Luitenant-kolonel van de vrijwillige Groninger jagers; Gesneuveld bij Bautersem op 11-8-1831.,NULL,NULL,NULL,SantenC/KTOMB_W075,1998-11-11 08:45:34.843,0x000000000088C6BC,0,Belgische Opstand.,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,11871,0,0,106,"1784      ","1831      "
+748,1,0,Navez François Joseph,Navez,François Joseph,NULL,NULL,NULL,NULL,NULL,François Joseph Navez,1787,1869,1787-1869,"schilder
+Geboren te Charleroi en gestorven te Brussel. Leerling van Jean Lousi David. Van 1835 tot 1862 directeur van de Academie te Brussel. Sinds 1845 lid van de Academie van België.",NULL,NULL,NULL,verhoevenp,1998-11-20 11:43:34.557,0x000000000088C6C0,0,schilder,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,8557,0,0,110,"1787      ","1869      "
+756,1,0,"Bisschoff, Kapitein",Bisschoff,NULL,Kapitein,NULL,NULL,NULL,NULL,Kapitein Bisschoff,0,1840,NULL,"Luitenant Bisschoff was bij een stormloop bij de post te Baros als eerste op borstwering. Hij haalde hierbij een Atjehse vlag omlaag en ontving tegelijkertijd elf klewanghouwen. Enige dagen later, op 3 mei 1840, overleed hij aan zijn verwondingen. Vlak voor zijn overlijden werd hij tot kapitein bevorderd.",NULL,NULL,NULL,SantenC,1998-11-26 09:18:01.020,0x000000000088BCBD,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,1854,0,0,-1,NULL,"1840      "
+763,1,0,Prins Maurits,Oranje-Nassau,Maurits,Prins,NULL,NULL,NULL,NULL,Prins Maurits,1843,1850,1843 - 1850,Tweede zoon van Koning Willem III en Koningin Sophie,NULL,NULL,NULL,verhoevenp,1998-12-02 10:04:10.200,0x000000000088C6C2,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9518,0,0,112,"1843      ","1850      "
+765,1,0,Prins Alexander,Oranje-Nassau,Alexander,Prins,NULL,NULL,NULL,NULL,Prins Alexander,1818,1848,1818 - 1848,Tweede zoon van Koning Willem II en Koningin Anna Paulowna; Overleden op het eiland Madera.,NULL,NULL,NULL,verhoevenp,1998-12-02 10:47:25.643,0x000000000088C6C3,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9506,0,0,113,"1818      ","1848      "
+769,1,0,Kooij Jan RMWO-4 Korporaal KNIL,Kooij,Jan,Korporaal KNIL,NULL,NULL,NULL,NULL,Korporaal KNIL Jan Kooij RMWO-4,1849,1895,1849 - 1895,"Korporaal der Infanterie KNIL, zoon van Denaba en Efona, geboren te Elmina.
+
+Thieme: ""Het portret in olieverf van den dapperen Afrikaanschen korporaal Jan Kooij, geboren te St. George d'Elmina, oud 33 jaar; heeft zich roemrijk gedragen door op 31sten Januari 1878 het leven te redden van den kapitein Baum, na twee Atjehers te hebben gedood en tien stukken geschut te hebben vernageld onder het vuur des vijands; den 25sten juli 1878 redde hij het leven van den luitenant Bijleveld, door met eene klewang en lans gewapende Atjeher te dooden; verder mocht het hem gelukken den 26sten april 1879 een attaque des vijands op een konvooi af te slaan met behulp van nog twee Afrikanen Blik en Jaap.
+Hij is gedecoreerd met de Militaire Willemsorde 4e kl., de gouden kroon met eervolle vermelding in den strijd, het eereteken voor belangrijke krijgsbedrijven te Atjeh, de Atjehmedaille en de bronzen medaille voor trouwe dienst.""
+inventariskaart:""Afrikaans Korproraal Infanterie Jan Kooij (1849-1895), geboren St.George d'Elmina. Alg.stb.:64158, EBK met 2 gespen en gouden kroon voor eervolle vermelding. Atjehmedaille en bronzen medaille voor 12jarige trouwe dienst.""
+
+Kanselarij MWO nummer 4364:
+26 Maart 1869 Vrijwillig bij het Afrikaans Werfdepot als soldaat
+30 mei 1870 Geembarkeerd te St. George d'Elmina.
+14 augustus 1870 Aangekomen te Batavia en geplaatst bij het 1e Bataljon Infanterie.
+16 Juli 1874 geplaatst bij het 2e Bataljon Infanterie
+13 November 1875 geplaatst bij het 1e Bataljon Infanterie.
+11 maart 1876 geplaatst bij het 2e Bataljon Infanterie.
+11 maart 1878 geplaatst bij het 1e Bataljon Infanterie.
+1 Juli 1878 geplaatst bij het 2e Bataljon Infanterie.
+
+1874 Atjeh
+1875 Atjeh
+1876 Atjeh
+1877 Atjeh.
+Zich onderscheiden bij de Krijgsverrichtingen van 26 Januari tot 15 Maart 1877.
+1878 Atjeh.
+30 Januari 1877 Bestorming van de versterkte Missigit Lambadak.
+Bij de bestorming der versterkte Missigit Lambadak de eerste te zijn, die op de Zuiderface de versterking is binnengevallen, nadat kort te voren door een vijandelijk lillaschot vier der bestormers gedood en tien verwond waren geworden, juist van uit het schietgat )embrasure' waardoor hij naar binnendrong.
+
+Decoraties:
+Atjeh-medaille 1873-1874
+Ereteken voor Belangrijke Krijgsverrichtingen Atjeh 1873-1876",NULL,NULL,NULL,verhoevenp,1998-12-02 11:41:19.040,0x000000000149B6CC,0,NULL,NULL,NULL,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,6780,0,0,3998,1849,1895
+776,1,0,Koster Everhardus,Koster,Everhardus,NULL,NULL,NULL,NULL,NULL,Everhardus Koster,1817,1892,1817 - 1892,"Pieter Scheen, p.640:
+Leerling van de Akademie van Bouwkunst in Den Haag onder leiding van B.J. van Hove (1839-1840) en van het Städelsche Institut te Frankfurt am Main; bezocht verder verschillende Duitse steden (woonde tot 1847 in Den Haag), keerde in 1848 naar Nederland terug en vestigde zich in Amsterdam, waar hij in  1852 lid werd van de Koninklijke Akademie. In  1856 en in 1857 bezocht hij Engeland, werd in 1858 benoemd tot direkteur van het Paviljoen te Haarlem, 1858-1878, daarna werkzaam in Den Haag tot 1882, en Dordrecht tot 1890. Schilderde en aquerelleerde zee- en riviergezichten; heeft ook gelithografeerd. 
+Collecties in:
+Rijksprentenkabinet Amsterdam
+Gemeentearchief Amsterdam
+Rijksmuseum Amsterdam
+Gemeentemuseum Delft
+Gemeentearchif Haarlem
+Frans Hals museum
+Gemeentearchief Delft
+Teylers Stichting Haarlem
+Gemeentearchief Utrecht
+Gemeentearchief Den Haag
+Rijksprentenkabinet Leiden
+Gemeentearchief Rotterdam
+Rijksmuseum Kröller Möller
+Gemeentemuseum Nijmegen
+Maritiem Museum Rotterdam
+Museum Fodor
+",NULL,NULL,NULL,SantenC,1998-12-07 16:33:41.543,0x000000000088C6C7,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,6870,0,0,117,"1817      ","1892      "
+778,1,0,Schouman J.,Schouman,J.,NULL,NULL,NULL,NULL,NULL,J. Schouman,1801,1878,1801 - 1878,Waarschijnlijk dezelfde als Izaak Schouman,NULL,NULL,NULL,verhoevenp,1998-12-08 21:46:10.850,0x0000000001299169,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,10493,0,0,118,"1801      ","1878      "
+789,1,0,Kruseman J.A.,Kruseman,Jan Adam,NULL,NULL,NULL,NULL,NULL,Jan Adam Kruseman,1804,1862,1804 - 1862,"schilder en graficus.
+De in Haarlem geboren Jan Adam Kruseman vertrok reeds in 1819 naar Amsterdam om van zijn achterneef Cornelis Kruseman (1797-1857) kunstonderwijs te ontvangen. Na diens vertrek naar Rome in 1821 verruilde hij Amsterdam voor Brussel om er bij Francois-Joseph Navez (1787-1869) en Jacques Louis David (1748-1825) in de leer te gaan. In 1825 keerde Kruseman terug naar Amsterdam om zich daar te vestigen; hij kon er weldra van zijn schilderkunst leven.
+Kruseman schilderde behalve genre- en historiestukken voornamleijk portretten. Hij portretteerde veelvuldig leden van het Koninklijk Huis, de adel en het patriciaat. In zijn tijd was Kruseman één van de belangrijkste portretschilders die Nederland rijk was.
+Slechts c.a. 10 %  van zijn werk bevindt zich in museale instellingen.",NULL,NULL,NULL,verhoevenp,1998-12-22 09:27:54.130,0x0000000001070B58,0,schilder,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,7030,0,0,123,"1804      ","1862      "
+796,1,0,Anom Hamengkoe Negoro Hadipati Pangeran,Anom Hamengkoe Negoro,Hadipati,Pangeran,NULL,NULL,NULL,NULL,Pangeran Hadipati Anom Hamengkoe Negoro,1807,1888,NULL,Kroonprins van Djocjacarta,NULL,I,NULL,verhoevenp,1998-12-28 09:59:37.650,0x0000000001070B22,0,kroonprins van Djocjakarta,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,1137,0,0,-1,"1807      ","1888      "
+800,1,0,Riesz C.J. Generaal-majoor,Riesz,C.J.,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor C.J. Riesz,1791,1856,1791 - 1856,Generaal-majoor; Militaire Willemsorde 2e klasse,NULL,NULL,NULL,verhoevenp,1998-12-28 11:30:47.447,0x000000000088C6D0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,9820,0,0,126,"1791      ","1856      "
+802,1,0,Ham P.P.H. van RMWO-4 Generaal-majoor,Ham,P.P.H.,Generaal-majoor,NULL,NULL,NULL,NULL,Generaal-majoor P.P.H. van Ham RMWO-4,1839,1894,1839 - 1894,Generaal-majoor van het Nederlands Oost-Indisch Leger; Militaire Willemsorde 4; Gesneuveld  op 26 augustus 1894 te Mataram Lombok,NULL,NULL,NULL,verhoevenp,1998-12-28 11:42:36.157,0x00000000013FC028,0,NULL,NULL,van,RMWO-4,NULL,NULL,NULL,NULL,0,0,0,4896,0,0,127,"1839      ",1894-08-26
+815,1,0,Koningin Wilhelmina,Pruisen,Wilhelmina,Koningin,NULL,NULL,NULL,NULL,Koningin Wilhelmina,1774,1837,1774 - 1837,"Koningin der Nederlanden, echtgenote van Koning Willem I",NULL,NULL,NULL,SantenC,1999-01-04 14:28:30.143,0x000000000088C6D6,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,6748,0,0,132,"1774      ","1837      "
+816,1,0,Sophie Koningin,Wurtemberg,Sophie,Koningin,NULL,NULL,NULL,NULL,Koningin Sophie,1818,1877,1818 - 1877,"Koningin der Nederlanden, eerste echtgenote van Koning Willem III",NULL,NULL,NULL,SantenC,1999-01-04 15:26:49.677,0x000000000088C6D7,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,10949,0,0,133,"1818      ","1877      "
+817,1,0,Prinses Sophie,Oranje-Nassau,Sophie,Prinses,NULL,NULL,NULL,NULL,Prinses Sophie,1824,1897,1824 - 1897,Dochter van Koning Willem II en Koningin Anna Paulowna,NULL,NULL,NULL,SantenC,1999-01-04 16:07:45.727,0x000000000088C6D8,0,NULL,NULL,van,NULL,NULL,NULL,NULL,NULL,0,0,0,9535,0,0,134,"1824      ","1897      "
+838,1,0,Ende Louis Joseph Ferdinand Eduard von MWO-4 Kapitein,Ende,Louis Joseph Ferdinand Eduard,Kapitein,NULL,NULL,NULL,NULL,Kapitein Louis Joseph Ferdinand Eduard von Ende MWO-4,1835,1895,1835 - 1895,Volgens Thieme was hij gepensioneerd Kapitein van het Oost-Indisch leger en volgens Smits (p. 244) gepensioneerd Kapitein-luitenant ter zee.,NULL,NULL,NULL,SantenC,1999-01-13 09:50:53.957,0x000000000088C6D9,0,NULL,NULL,von,MWO-4,NULL,NULL,NULL,NULL,0,0,0,3854,0,0,135,"1835      ","1895      "
